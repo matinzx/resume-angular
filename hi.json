@@ -1,14 +1,13 @@
 {
   "log": {
     "level": "warn",
-    "output": "box.log",
     "timestamp": true
   },
   "dns": {
     "servers": [
       {
         "tag": "dns-remote",
-        "address": "1.1.1.1",
+        "address": "udp://1.1.1.1",
         "address_resolver": "dns-direct"
       },
       {
@@ -35,85 +34,108 @@
     "rules": [
       {
         "domain": [
-          "bh-obf-z1.irketaab.com",
-          "it-owl1.ketaab-forosh.com",
-          "dkreal2.gozarfile.com",
-          "hktr.gozarfile.com",
-          "at-ob.gozarfile.com",
-          "deco.ketaab.info",
-          "ger2obf.ketaab-forosh.com",
-          "oman3.irketaab.com",
-          "smtr.irketaab.com",
-          "armenia3obfs.gozarfile.com",
-          "ukco.ketaab.info",
-          "az2f.ketaab-forosh.com",
-          "dkreal.ketaab-forosh.com",
-          "baghdad.gozarfile.com",
-          "smde4.irketaab.com",
-          "de2co.ketaab.info",
-          "n-de2ob2.irketaab.com",
-          "smno199.irketaab.com",
-          "am-ob-2.gozarfile.com",
-          "ae2obfs2.irketaab.com",
-          "denew1ob.irketaab.com",
-          "au2obfs.gozarfile.com",
-          "deresnew3.ketaab-forosh.com",
-          "smfr4.irketaab.com",
-          "pakistan.gozarfile.com",
-          "de4res.ketaab-forosh.com",
-          "gb3obfs.gozarfile.com",
-          "azobfs2.gozarfile.com",
-          "obf1in.gozarfile.com",
-          "smobfsde1.ketaab-forosh.com",
-          "de3co.ketaab.info",
-          "deres1.gozarfile.com",
-          "usa2res1ob.ketaab-forosh.com",
-          "hk2-obf.gozarfile.com",
-          "smsg.gozarfile.com",
-          "ae-obf-z2.irketaab.com",
-          "trres3.irketaab.com",
-          "us1-sm-xr.gozarfile.com",
-          "n-desin2.gozarfile.com",
-          "smat.irketaab.com",
-          "am1x.ketaab-forosh.com",
-          "oman2.irketaab.com",
-          "colombia1obfs.gozarfile.com",
           "dkv.irketaab.com",
+          "kz2obf.gozarfile.com",
+          "dkreal2.gozarfile.com",
+          "am1x.ketaab-forosh.com",
+          "ae-obf-z1.irketaab.com",
+          "n-desin2.gozarfile.com",
+          "gb3obfs.gozarfile.com",
+          "smat.irketaab.com",
+          "ie2.gozarfile.com",
+          "rus1.gozarfile.com",
+          "bh-obf-z1.irketaab.com",
+          "fi3obfs3.irketaab.com",
+          "muscat.gozarfile.com",
+          "smfi.irketaab.com",
+          "n-de2ob2.irketaab.com",
+          "pakistan.gozarfile.com",
+          "au2obfs.gozarfile.com",
+          "az2f.ketaab-forosh.com",
+          "de2co.ketaab.info",
+          "ukraine2obfs.gozarfile.com",
+          "smde4.irketaab.com",
+          "de3co.ketaab.info",
+          "trresob.gozarfile.com",
+          "dkreal.ketaab-forosh.com",
+          "deco.ketaab.info",
+          "georgia1obs.gozarfile.com",
+          "hk1-obf.gozarfile.com",
+          "azobfs2.gozarfile.com",
+          "usa2res1ob.ketaab-forosh.com",
+          "at-ob.gozarfile.com",
+          "se2obfs.gozarfile.com",
+          "no2obfs.gozarfile.com",
+          "am-ob-2.gozarfile.com",
+          "smua221.irketaab.com",
+          "it-owl1.ketaab-forosh.com",
+          "smfr4.irketaab.com",
+          "r-de2.irketaab.com",
+          "hktr.gozarfile.com",
           "de-con-1.gozarfile.com",
           "smch2.irketaab.com",
-          "br-obf1.ketaab-forosh.com",
-          "fi3obfs3.irketaab.com",
-          "r-de2.irketaab.com",
-          "newnlreal1.ipgozarz.com",
-          "se2obfs.gozarfile.com",
-          "hk1-obf.gozarfile.com",
-          "trnewpq.ketaab-forosh.com",
-          "trresob.gozarfile.com",
-          "tr-owl1.ketaab-forosh.com",
-          "usresidential1.gozarfile.com",
-          "ae-obf-z1.irketaab.com",
-          "smam3.irketaab.com",
-          "usres1.ketaab-forosh.com",
-          "smfi.irketaab.com",
-          "fi2obfs2.irketaab.com",
-          "n-de1obfs.ketaab-forosh.com",
-          "muscat.gozarfile.com",
-          "smit60.irketaab.com",
-          "georgia1obs.gozarfile.com",
-          "canada2obf.gozarfile.com",
-          "unitedstates2obfs.gozarfile.com",
-          "tr-obfs-22.ketaab-forosh.com",
-          "philp.gozarfile.com",
-          "no2obfs.gozarfile.com",
-          "ukraine2obfs.gozarfile.com",
           "smca.ketaab-forosh.com",
-          "smua221.irketaab.com",
-          "ie2.gozarfile.com",
-          "smfr.ketaab-forosh.com",
-          "kz2obf.gozarfile.com",
-          "rus1.gozarfile.com",
+          "colombia1obfs.gozarfile.com",
+          "unitedstates2obfs.gozarfile.com",
           "bahrain.gozarfile.com",
-          "smmy.gozarfile.com"
+          "oman2.irketaab.com",
+          "fi2obfs2.irketaab.com",
+          "tr-owl1.ketaab-forosh.com",
+          "newnlreal1.ipgozarz.com",
+          "tr-obfs-22.ketaab-forosh.com",
+          "denew1ob.irketaab.com",
+          "armenia3obfs.gozarfile.com",
+          "deres1.gozarfile.com",
+          "us1-sm-xr.gozarfile.com",
+          "smobfsde1.ketaab-forosh.com",
+          "oman3.irketaab.com",
+          "n-de1obfs.ketaab-forosh.com",
+          "smmy.gozarfile.com",
+          "smam3.irketaab.com",
+          "trnewpq.ketaab-forosh.com",
+          "obf1in.gozarfile.com",
+          "deresnew3.ketaab-forosh.com",
+          "philp.gozarfile.com",
+          "hk2-obf.gozarfile.com",
+          "ukco.ketaab.info",
+          "smfr.ketaab-forosh.com",
+          "ger2obf.ketaab-forosh.com",
+          "baghdad.gozarfile.com",
+          "ae-obf-z2.irketaab.com",
+          "ae2obfs2.irketaab.com",
+          "br-obf1.ketaab-forosh.com",
+          "de4res.ketaab-forosh.com",
+          "trres3.irketaab.com",
+          "usresidential1.gozarfile.com",
+          "canada2obf.gozarfile.com",
+          "usres1.ketaab-forosh.com"
+        ],
+        "server": "dns-direct"
+      },
+      {
+        "domain": "cp.cloudflare.com",
+        "server": "dns-remote",
+        "rewrite_ttl": 3000
+      },
+      {
+        "rule_set": [
+          "geosite-ads",
+          "geosite-malware",
+          "geosite-phishing",
+          "geosite-cryptominers",
+          "geoip-malware",
+          "geoip-phishing"
+        ],
+        "server": "dns-block"
+      },
+      {
+        "domain_suffix": ".ir",
+        "server": "dns-direct"
+      },
+      {
+        "rule_set": [
+          "geoip-ir",
+          "geosite-ir"
         ],
         "server": "dns-direct"
       }
@@ -123,12 +145,24 @@
       "sky.rethinkdns.com": [
         "104.17.147.22",
         "104.17.148.22",
-        "104.18.0.48",
-        "104.18.1.48"
+        "2606:4700::6812:130",
+        "2606:4700::6812:30"
       ]
-    }
+    },
+    "independent_cache": true
   },
   "inbounds": [
+    {
+      "type": "tun",
+      "tag": "tun-in",
+      "mtu": 9000,
+      "inet4_address": "172.19.0.1/28",
+      "auto_route": true,
+      "strict_route": true,
+      "endpoint_independent_nat": true,
+      "stack": "gvisor",
+      "sniff": true
+    },
     {
       "type": "mixed",
       "tag": "mixed-in",
@@ -152,7 +186,6 @@
         "auto",
         "🇺🇸 USA-Res3 cmae7ooed0019fddvo7sskhcc",
         "🇬🇧 UnitedKigndom 2 cmb3ujoy200xa72oz69d47qjs",
-        "🇴🇲 Oman cmdek42jn06aaacxwgzxfs7nm",
         "🇷🇺 Russia cmbct3mt100y5d34rq8k652qn",
         "🇧🇭 Bahrain cma0nqvty00azvrto4kdtgpv8",
         "🇳🇱 Netherlands ||| cmb3ufhke00os72ozqe6wwf84",
@@ -160,8 +193,6 @@
         "🇸🇪 Sweden cma5nvwh0000711q8cr8r4fvs",
         "🇳🇴 Norway 2 cmbdzvocd01ktd34rs65hvor6",
         "🇩🇪 GERMANY-6 cmclz0r4a0000acxwk7rc00zc",
-        "🇮🇹 Italy 0 cma78e5bg00kw56jrh9vgumfr",
-        "🇮🇹 Italy 1 cma78e5bg00kw56jrh9vgumfr",
         "کند-slow cmawo0m2v004d10w47nnejbhq",
         "🇦🇲 ArmeniaCLOUD-Res 0 cmcbyv4fu00ukhsln5gqh1dz4",
         "🇩🇪Germany-8 cmcnganoe00kjacxwop81umf7",
@@ -191,8 +222,6 @@
         "🇺🇦 Ukraine 2 cmbe00i6001t7d34rl53n5fk5",
         "🇹🇷 Turkey-RES cmd75mhoy055cacxwwz5jyldr",
         "🇮🇳 India cmambe4x60064kfersi5zw49t",
-        "🇳🇴 Norway 0 cma77vpeq003u56jrgq81snje",
-        "🇳🇴 Norway 1 cma77vpeq003u56jrgq81snje",
         "🇩🇪 GERMANY-RES3 cmbrlu4l4009eaxsdgoc34b02",
         "🇨🇦 Canada cmafd16dp00ju1ajg009x7dzg",
         "🇩🇰 Denmark-RES cmbgevbf302med34rsfittxep",
@@ -208,7 +237,6 @@
         "🇫🇷 France 2 0 cm9vvr19b005a7qp29lk6p11o",
         "🇫🇷 France 2 1 cm9vvr19b005a7qp29lk6p11o",
         "🇩🇰 Cloud-Denmark 0 cmbzlcrdo00ckkq0ozqve2phr",
-        "🇹🇷 Turkey 0 cmbtweyew01y9jivjrvjpkvfo",
         "🇹🇷 Turkey - NEW 1 cmae8bs3v00atfddv61kjwl9l",
         "🇦🇲 Armenia-Res cm87kdzey0002dtca2rfg6qer",
         "🇧🇷 Brazil-Res cmaxrscjz00044ogwilid610b",
@@ -217,7 +245,6 @@
         "🇫🇮 Finland 2 cmb44dsna00ca3sr1qvjrzc3e",
         "🇺🇦 Ukraine 0 cma7842ck00cm56jr0a21jmnl",
         "🇺🇦 Ukraine 1 cma7842ck00cm56jr0a21jmnl",
-        "🇸🇬 Singapore 0 cmamz2sw500f0kferi0sgtsg9",
         "🇬🇧 UK-6 cmcng4pj300gvacxwsyva3hgw",
         "🇮🇹 Italy - NEW 1 cmadsmef100biihwgsta68skf",
         "🇮🇪 Ireland cmbdzosmb01dqd34re3a8hh8u",
@@ -228,6 +255,7 @@
         "🇩🇪 Germany 2 0 cm9vvx7kv00gn7qp2yiw2acq1",
         "🇩🇪 Germany 2 1 cm9vvx7kv00gn7qp2yiw2acq1",
         "🇩🇰 Denmark2-RES cmbgfn54j02v7d34rfhwyk0w0",
+        "🇴🇲 Oman cmdq8fpi109jnacxw9ba6crgi",
         "🇩🇪 N-Germany 2 cmbo56m0a03xod34ra1x7jkbz",
         "🇩🇪 Germany-RES2 cm9uemncl00geqs6ve1utko7h",
         "🇦🇺 Australia cmauxdxyr00e1s9x02vbq9wy6",
@@ -246,7 +274,6 @@
       "outbounds": [
         "🇺🇸 USA-Res3 cmae7ooed0019fddvo7sskhcc",
         "🇬🇧 UnitedKigndom 2 cmb3ujoy200xa72oz69d47qjs",
-        "🇴🇲 Oman cmdek42jn06aaacxwgzxfs7nm",
         "🇷🇺 Russia cmbct3mt100y5d34rq8k652qn",
         "🇧🇭 Bahrain cma0nqvty00azvrto4kdtgpv8",
         "🇳🇱 Netherlands ||| cmb3ufhke00os72ozqe6wwf84",
@@ -254,8 +281,6 @@
         "🇸🇪 Sweden cma5nvwh0000711q8cr8r4fvs",
         "🇳🇴 Norway 2 cmbdzvocd01ktd34rs65hvor6",
         "🇩🇪 GERMANY-6 cmclz0r4a0000acxwk7rc00zc",
-        "🇮🇹 Italy 0 cma78e5bg00kw56jrh9vgumfr",
-        "🇮🇹 Italy 1 cma78e5bg00kw56jrh9vgumfr",
         "کند-slow cmawo0m2v004d10w47nnejbhq",
         "🇦🇲 ArmeniaCLOUD-Res 0 cmcbyv4fu00ukhsln5gqh1dz4",
         "🇩🇪Germany-8 cmcnganoe00kjacxwop81umf7",
@@ -285,8 +310,6 @@
         "🇺🇦 Ukraine 2 cmbe00i6001t7d34rl53n5fk5",
         "🇹🇷 Turkey-RES cmd75mhoy055cacxwwz5jyldr",
         "🇮🇳 India cmambe4x60064kfersi5zw49t",
-        "🇳🇴 Norway 0 cma77vpeq003u56jrgq81snje",
-        "🇳🇴 Norway 1 cma77vpeq003u56jrgq81snje",
         "🇩🇪 GERMANY-RES3 cmbrlu4l4009eaxsdgoc34b02",
         "🇨🇦 Canada cmafd16dp00ju1ajg009x7dzg",
         "🇩🇰 Denmark-RES cmbgevbf302med34rsfittxep",
@@ -302,7 +325,6 @@
         "🇫🇷 France 2 0 cm9vvr19b005a7qp29lk6p11o",
         "🇫🇷 France 2 1 cm9vvr19b005a7qp29lk6p11o",
         "🇩🇰 Cloud-Denmark 0 cmbzlcrdo00ckkq0ozqve2phr",
-        "🇹🇷 Turkey 0 cmbtweyew01y9jivjrvjpkvfo",
         "🇹🇷 Turkey - NEW 1 cmae8bs3v00atfddv61kjwl9l",
         "🇦🇲 Armenia-Res cm87kdzey0002dtca2rfg6qer",
         "🇧🇷 Brazil-Res cmaxrscjz00044ogwilid610b",
@@ -311,7 +333,6 @@
         "🇫🇮 Finland 2 cmb44dsna00ca3sr1qvjrzc3e",
         "🇺🇦 Ukraine 0 cma7842ck00cm56jr0a21jmnl",
         "🇺🇦 Ukraine 1 cma7842ck00cm56jr0a21jmnl",
-        "🇸🇬 Singapore 0 cmamz2sw500f0kferi0sgtsg9",
         "🇬🇧 UK-6 cmcng4pj300gvacxwsyva3hgw",
         "🇮🇹 Italy - NEW 1 cmadsmef100biihwgsta68skf",
         "🇮🇪 Ireland cmbdzosmb01dqd34re3a8hh8u",
@@ -322,6 +343,7 @@
         "🇩🇪 Germany 2 0 cm9vvx7kv00gn7qp2yiw2acq1",
         "🇩🇪 Germany 2 1 cm9vvx7kv00gn7qp2yiw2acq1",
         "🇩🇰 Denmark2-RES cmbgfn54j02v7d34rfhwyk0w0",
+        "🇴🇲 Oman cmdq8fpi109jnacxw9ba6crgi",
         "🇩🇪 N-Germany 2 cmbo56m0a03xod34ra1x7jkbz",
         "🇩🇪 Germany-RES2 cm9uemncl00geqs6ve1utko7h",
         "🇦🇺 Australia cmauxdxyr00e1s9x02vbq9wy6",
@@ -331,7 +353,7 @@
         "🇹🇷 TURKEY-Res2 cmaqr03c50001uzi2iwzbti38",
         "🇹🇷 TURKEY-RES3 cmb2nhkwx009x72ozjprvwscw"
       ],
-      "url": "http://cp.cloudflare.com/",
+      "url": "http://cp.cloudflare.com",
       "interval": "10m0s",
       "tolerance": 1,
       "idle_timeout": "30m0s",
@@ -348,7 +370,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -365,24 +387,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇴🇲 Oman cmdek42jn06aaacxwgzxfs7nm",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "muscat.gozarfile.com",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "ipgozarenc"
-      },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -399,7 +404,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -416,7 +421,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -433,7 +438,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -450,7 +455,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -467,7 +472,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -484,7 +489,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -501,34 +506,10 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇮🇹 Italy 0 cma78e5bg00kw56jrh9vgumfr",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "smit60.irketaab.com",
-      "server_port": 8443,
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
-      "tls": {
-        "enabled": true
-      }
-    },
-    {
-      "type": "tuic",
-      "tag": "🇮🇹 Italy 1 cma78e5bg00kw56jrh9vgumfr",
-      "server": "smit60.irketaab.com",
-      "server_port": 8400,
-      "uuid": "de7fedac-cb00-481d-b110-c609e41796b1",
-      "congestion_control": "bbr",
-      "tls": {
-        "enabled": true,
-        "server_name": "smit60.irketaab.com"
       }
     },
     {
@@ -542,7 +523,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -555,7 +536,7 @@
       "domain_strategy": "prefer_ipv4",
       "server": "am1x.ketaab-forosh.com",
       "server_port": 8079,
-      "uuid": "de7fedac-cb00-481d-b110-c609e41796b1",
+      "uuid": "e3c8817f-d23a-4b77-8913-85f54aee7c78",
       "security": "auto",
       "packet_encoding": "xudp",
       "transport": {
@@ -576,7 +557,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -593,7 +574,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -606,7 +587,7 @@
       "domain_strategy": "prefer_ipv4",
       "server": "de-con-1.gozarfile.com",
       "server_port": 8443,
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true
       }
@@ -622,7 +603,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -639,7 +620,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -656,7 +637,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -673,7 +654,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -690,7 +671,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -707,7 +688,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -724,7 +705,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -737,7 +718,7 @@
       "domain_strategy": "prefer_ipv4",
       "server": "smam3.irketaab.com",
       "server_port": 8443,
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true
       }
@@ -753,7 +734,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -770,7 +751,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -787,7 +768,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -804,7 +785,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -817,7 +798,7 @@
       "domain_strategy": "prefer_ipv4",
       "server": "us1-sm-xr.gozarfile.com",
       "server_port": 8079,
-      "uuid": "de7fedac-cb00-481d-b110-c609e41796b1",
+      "uuid": "e3c8817f-d23a-4b77-8913-85f54aee7c78",
       "security": "auto",
       "packet_encoding": "xudp",
       "transport": {
@@ -838,7 +819,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -855,7 +836,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -872,7 +853,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -889,7 +870,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -900,7 +881,7 @@
       "tag": "🇫🇮 Finland 0 clu6z79q8010nwkalcbco59pk",
       "server": "smfi.irketaab.com",
       "server_port": 8400,
-      "uuid": "de7fedac-cb00-481d-b110-c609e41796b1",
+      "uuid": "e3c8817f-d23a-4b77-8913-85f54aee7c78",
       "congestion_control": "bbr",
       "tls": {
         "enabled": true,
@@ -914,7 +895,7 @@
       "domain_strategy": "prefer_ipv4",
       "server": "smfi.irketaab.com",
       "server_port": 8443,
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true
       }
@@ -930,7 +911,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -947,7 +928,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -964,7 +945,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -981,7 +962,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -998,34 +979,10 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇳🇴 Norway 0 cma77vpeq003u56jrgq81snje",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "smno199.irketaab.com",
-      "server_port": 8443,
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
-      "tls": {
-        "enabled": true
-      }
-    },
-    {
-      "type": "tuic",
-      "tag": "🇳🇴 Norway 1 cma77vpeq003u56jrgq81snje",
-      "server": "smno199.irketaab.com",
-      "server_port": 8400,
-      "uuid": "de7fedac-cb00-481d-b110-c609e41796b1",
-      "congestion_control": "bbr",
-      "tls": {
-        "enabled": true,
-        "server_name": "smno199.irketaab.com"
       }
     },
     {
@@ -1039,7 +996,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1056,7 +1013,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1073,7 +1030,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1090,7 +1047,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1107,7 +1064,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1124,7 +1081,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1141,7 +1098,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1158,7 +1115,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1175,7 +1132,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1192,7 +1149,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1209,7 +1166,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1226,7 +1183,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1239,7 +1196,7 @@
       "domain_strategy": "prefer_ipv4",
       "server": "smfr4.irketaab.com",
       "server_port": 8443,
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true
       }
@@ -1249,7 +1206,7 @@
       "tag": "🇫🇷 France 2 1 cm9vvr19b005a7qp29lk6p11o",
       "server": "smfr4.irketaab.com",
       "server_port": 8400,
-      "uuid": "de7fedac-cb00-481d-b110-c609e41796b1",
+      "uuid": "e3c8817f-d23a-4b77-8913-85f54aee7c78",
       "congestion_control": "bbr",
       "tls": {
         "enabled": true,
@@ -1263,7 +1220,7 @@
       "domain_strategy": "prefer_ipv4",
       "server": "dkv.irketaab.com",
       "server_port": 8079,
-      "uuid": "de7fedac-cb00-481d-b110-c609e41796b1",
+      "uuid": "e3c8817f-d23a-4b77-8913-85f54aee7c78",
       "security": "auto",
       "packet_encoding": "xudp",
       "transport": {
@@ -1271,18 +1228,6 @@
         "host": "$fakeDomain$",
         "path": "/tus",
         "method": "PATCH"
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇹🇷 Turkey 0 cmbtweyew01y9jivjrvjpkvfo",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "smtr.irketaab.com",
-      "server_port": 8443,
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
-      "tls": {
-        "enabled": true
       }
     },
     {
@@ -1296,7 +1241,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1313,7 +1258,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1330,7 +1275,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1343,7 +1288,7 @@
       "domain_strategy": "prefer_ipv4",
       "server": "smat.irketaab.com",
       "server_port": 8443,
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true
       }
@@ -1353,7 +1298,7 @@
       "tag": "🇦🇹 Austria 1 cmbuhhud20271jivjz1xahseg",
       "server": "smat.irketaab.com",
       "server_port": 8400,
-      "uuid": "de7fedac-cb00-481d-b110-c609e41796b1",
+      "uuid": "e3c8817f-d23a-4b77-8913-85f54aee7c78",
       "congestion_control": "bbr",
       "tls": {
         "enabled": true,
@@ -1371,7 +1316,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1384,7 +1329,7 @@
       "domain_strategy": "prefer_ipv4",
       "server": "smua221.irketaab.com",
       "server_port": 8443,
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true
       }
@@ -1394,23 +1339,11 @@
       "tag": "🇺🇦 Ukraine 1 cma7842ck00cm56jr0a21jmnl",
       "server": "smua221.irketaab.com",
       "server_port": 8400,
-      "uuid": "de7fedac-cb00-481d-b110-c609e41796b1",
+      "uuid": "e3c8817f-d23a-4b77-8913-85f54aee7c78",
       "congestion_control": "bbr",
       "tls": {
         "enabled": true,
         "server_name": "smua221.irketaab.com"
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇸🇬 Singapore 0 cmamz2sw500f0kferi0sgtsg9",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "smsg.gozarfile.com",
-      "server_port": 8443,
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
-      "tls": {
-        "enabled": true
       }
     },
     {
@@ -1424,7 +1357,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1441,7 +1374,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1458,7 +1391,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1471,7 +1404,7 @@
       "domain_strategy": "prefer_ipv4",
       "server": "smfr.ketaab-forosh.com",
       "server_port": 8443,
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true
       }
@@ -1487,7 +1420,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1504,7 +1437,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1521,7 +1454,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1534,7 +1467,7 @@
       "domain_strategy": "prefer_ipv4",
       "server": "smde4.irketaab.com",
       "server_port": 8443,
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true
       }
@@ -1544,7 +1477,7 @@
       "tag": "🇩🇪 Germany 2 1 cm9vvx7kv00gn7qp2yiw2acq1",
       "server": "smde4.irketaab.com",
       "server_port": 8400,
-      "uuid": "de7fedac-cb00-481d-b110-c609e41796b1",
+      "uuid": "e3c8817f-d23a-4b77-8913-85f54aee7c78",
       "congestion_control": "bbr",
       "tls": {
         "enabled": true,
@@ -1562,7 +1495,24 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇴🇲 Oman cmdq8fpi109jnacxw9ba6crgi",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "muscat.gozarfile.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1579,7 +1529,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1596,7 +1546,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1613,7 +1563,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1630,7 +1580,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1647,7 +1597,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1664,7 +1614,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1681,7 +1631,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1698,7 +1648,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "de7fedac-cb00-481d-b110-c609e41796b1:cm0w8ktnk0001xotmzdpu2bm3",
+      "password": "e3c8817f-d23a-4b77-8913-85f54aee7c78:cm0w8ktnk0001xotmzdpu2bm3",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1717,8 +1667,8 @@
       "tag": "direct-fragment",
       "tls_fragment": {
         "enabled": true,
-        "size": "10-100",
-        "sleep": "50-200"
+        "size": "10-30",
+        "sleep": "2-8"
       }
     },
     {
@@ -1739,6 +1689,86 @@
       {
         "port": 53,
         "outbound": "dns-out"
+      },
+      {
+        "rule_set": [
+          "geosite-ads",
+          "geosite-malware",
+          "geosite-phishing",
+          "geosite-cryptominers",
+          "geoip-malware",
+          "geoip-phishing"
+        ],
+        "outbound": "block"
+      },
+      {
+        "domain_suffix": ".ir",
+        "outbound": "direct"
+      },
+      {
+        "rule_set": [
+          "geoip-ir",
+          "geosite-ir"
+        ],
+        "outbound": "direct"
+      }
+    ],
+    "rule_set": [
+      {
+        "type": "remote",
+        "tag": "geosite-ads",
+        "format": "binary",
+        "url": "https://raw.githubusercontent.com/hiddify/hiddify-geo/rule-set/block/geosite-category-ads-all.srs",
+        "update_interval": "120h0m0s"
+      },
+      {
+        "type": "remote",
+        "tag": "geosite-malware",
+        "format": "binary",
+        "url": "https://raw.githubusercontent.com/hiddify/hiddify-geo/rule-set/block/geosite-malware.srs",
+        "update_interval": "120h0m0s"
+      },
+      {
+        "type": "remote",
+        "tag": "geosite-phishing",
+        "format": "binary",
+        "url": "https://raw.githubusercontent.com/hiddify/hiddify-geo/rule-set/block/geosite-phishing.srs",
+        "update_interval": "120h0m0s"
+      },
+      {
+        "type": "remote",
+        "tag": "geosite-cryptominers",
+        "format": "binary",
+        "url": "https://raw.githubusercontent.com/hiddify/hiddify-geo/rule-set/block/geosite-cryptominers.srs",
+        "update_interval": "120h0m0s"
+      },
+      {
+        "type": "remote",
+        "tag": "geoip-phishing",
+        "format": "binary",
+        "url": "https://raw.githubusercontent.com/hiddify/hiddify-geo/rule-set/block/geoip-phishing.srs",
+        "update_interval": "120h0m0s"
+      },
+      {
+        "type": "remote",
+        "tag": "geoip-malware",
+        "format": "binary",
+        "url": "https://raw.githubusercontent.com/hiddify/hiddify-geo/rule-set/block/geoip-malware.srs",
+        "update_interval": "120h0m0s"
+      },
+      {
+        "type": "remote",
+        "tag": "geoip-ir",
+        "format": "binary",
+        "url": "https://raw.githubusercontent.com/hiddify/hiddify-geo/rule-set/country/geoip-ir.srs",
+        "update_interval": "120h0m0s"
+      },
+      {
+        "type": "remote",
+        "tag": "geosite-ir",
+        "format": "binary",
+        "url": "https://raw.githubusercontent.com/hiddify/hiddify-geo/rule-set/country/geosite-ir.srs",
+        "update_interval": "120h0m0s"
       }
     ],
     "final": "select",
@@ -1752,7 +1782,7 @@
     },
     "clash_api": {
       "external_controller": "127.0.0.1:16756",
-      "secret": "Qp81h14tjuRjka4p"
+      "secret": "9BDNcjFcSLVRS7eF"
     }
   }
 }
