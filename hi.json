@@ -34,145 +34,152 @@
     "rules": [
       {
         "domain": [
-          "us214ex-r.ketaab-forosh.com",
-          "ex185bh-r.irketaab.com",
-          "sg84ex-r.ketaab-forosh.com",
-          "azobfs2.gozarfile.com",
-          "dkreal.ketaab-forosh.com",
-          "smobfsde1.ketaab-forosh.com",
-          "dkv.irketaab.com",
-          "in41ex-r.ketaab-forosh.com",
-          "philp.gozarfile.com",
-          "newnlreal1.ipgozarz.com",
-          "deresnew3.ketaab-forosh.com",
-          "ger2obf.ketaab-forosh.com",
-          "pk202exf.ketaab-forosh.com",
-          "ge42ex.ketaab-forosh.com",
-          "tr-owl1.ketaab-forosh.com",
-          "tr-obfs-22.ketaab-forosh.com",
-          "au2obfs.gozarfile.com",
-          "ca242ob.gozarfile.com",
-          "smfi.irketaab.com",
-          "om72ex.ketaab-forosh.com",
-          "tr23ex-r.irketaab.com",
-          "az132ex-r.ketaab-forosh.com",
-          "az132ex.ketaab-forosh.com",
-          "de2co.ketaab.info",
-          "smam3.irketaab.com",
-          "us154ex-r.ketaab-forosh.com",
-          "ae65ex-r.ketaab-forosh.com",
-          "gb3obfs.gozarfile.com",
-          "canada2obf.gozarfile.com",
-          "bh-obf-z1.irketaab.com",
-          "usres1.ketaab-forosh.com",
-          "n-desin2.gozarfile.com",
-          "nl58ob.gozarfile.com",
-          "ex178ca.ketaab-forosh.com",
-          "iq85ex.ketaab-forosh.com",
-          "se2obfs.gozarfile.com",
-          "uk94ex.ketaab-forosh.com",
-          "uk58ex.ketaab-forosh.com",
-          "n-de2ob2.irketaab.com",
-          "de3co.ketaab.info",
-          "fi3obfs3.irketaab.com",
-          "moon1.ketaab.info",
-          "de23ex-r.ketaab-forosh.com",
-          "ge42ex-r.ketaab-forosh.com",
-          "gb58ob.gozarfile.com",
-          "smfr4.irketaab.com",
-          "de4res.ketaab-forosh.com",
-          "smde4.irketaab.com",
-          "ex189it-r.ketaab-forosh.com",
-          "georgia1obs.gozarfile.com",
-          "smca.ketaab-forosh.com",
-          "am-ob-2.gozarfile.com",
-          "ca59ex.ketaab-forosh.com",
-          "dk220exf.ketaab-forosh.com",
-          "am1x.ketaab-forosh.com",
-          "usa2res1ob.ketaab-forosh.com",
-          "fi2obfs2.irketaab.com",
-          "denew1ob.irketaab.com",
-          "ae65ex.ketaab-forosh.com",
-          "ir-am61ex.ketaab-forosh.com",
-          "us214ex.ketaab-forosh.com",
-          "de226exf.ketaab-forosh.com",
-          "ae-obf-z1.irketaab.com",
-          "ex178ca-r.ketaab-forosh.com",
-          "us53ex-r.ketaab-forosh.com",
-          "trnewpq.ketaab-forosh.com",
-          "deres1.gozarfile.com",
-          "armenia3obfs.gozarfile.com",
-          "ae58obf.gozarfile.com",
-          "ex154us.ketaab-forosh.com",
-          "no2obfs.gozarfile.com",
-          "kz2obf.gozarfile.com",
-          "dkreal2.gozarfile.com",
-          "am26ex.ketaab-forosh.com",
-          "ae-obf-z2.irketaab.com",
-          "obf1in.gozarfile.com",
-          "de23ex.ketaab-forosh.com",
-          "tr45ex-r.irketaab.com",
-          "uk58ex-r.ketaab-forosh.com",
-          "smmy.gozarfile.com",
-          "muscat.gozarfile.com",
           "trresob.gozarfile.com",
-          "n-de1obfs.ketaab-forosh.com",
-          "ir-ch62ex.ketaab-forosh.com",
-          "usresidential1.gozarfile.com",
-          "ukraine2obfs.gozarfile.com",
-          "nl58ex.ketaab-forosh.com",
-          "in41ex.ketaab-forosh.com",
-          "smch2.irketaab.com",
-          "br-obf1.ketaab-forosh.com",
-          "hk1-obf.gozarfile.com",
-          "bh14ex.ketaab-forosh.com",
-          "tr45ex.irketaab.com",
-          "at-ob.gozarfile.com",
-          "ir-us178exf.ketaab-forosh.com",
-          "us20ex.ketaab-forosh.com",
-          "uk94ex-r.ketaab-forosh.com",
-          "dk220exf-r.ketaab-forosh.com",
-          "hk2-obf.gozarfile.com",
-          "baghdad.gozarfile.com",
-          "nl214ob.irketaab.com",
-          "bahrain.gozarfile.com",
-          "am61ex-r.ketaab-forosh.com",
-          "rus1.gozarfile.com",
-          "de230obf2.gozarfile.com",
-          "am61ex.ketaab.info",
-          "az2f.ketaab-forosh.com",
-          "oman2.irketaab.com",
-          "colombia1obfs.gozarfile.com",
-          "ae2obfs2.irketaab.com",
-          "fr109ex-r.ketaab-forosh.com",
-          "de-con-1.gozarfile.com",
-          "it-owl1.ketaab-forosh.com",
-          "tr23ex.irketaab.com",
-          "oman3.irketaab.com",
-          "singapore84.gozarfile.com",
-          "au41ex.ketaab-forosh.com",
-          "ir-tr65exf.ketaab-forosh.com",
-          "bh14ex-r.ketaab-forosh.com",
-          "de230obf.gozarfile.com",
-          "sg84ex.ketaab-forosh.com",
-          "ukco.ketaab.info",
+          "bh-obf-z1.irketaab.com",
+          "trnewpq.ketaab-forosh.com",
+          "az132ex-r.ketaab-forosh.com",
           "ch12ob.irketaab.com",
-          "ie2.gozarfile.com",
-          "trres3.irketaab.com",
-          "us53ex.ketaab-forosh.com",
-          "deco.ketaab.info",
-          "hktr.gozarfile.com",
-          "iq85ex-r.ketaab-forosh.com",
-          "pakistan.gozarfile.com",
+          "smobfsde1.ketaab-forosh.com",
+          "us20ex.ketaab-forosh.com",
+          "azobfs2.gozarfile.com",
+          "fi3obfs3.irketaab.com",
+          "tr52-new.gozarfile.com",
+          "tr45ex.irketaab.com",
+          "obf1in.gozarfile.com",
+          "dkv.irketaab.com",
+          "tr244-new.ipgozarz.com",
+          "ir-us178exf.ketaab-forosh.com",
+          "ex178ca.ketaab-forosh.com",
+          "kz2obf.gozarfile.com",
+          "de230obf2.gozarfile.com",
           "ex154us-r.ketaab-forosh.com",
-          "ex189it.ketaab-forosh.com",
-          "r-de2.irketaab.com",
-          "am6o.gozarfile.com",
-          "smat.irketaab.com",
-          "am26ex-r.ketaab-forosh.com",
+          "am26ex.ketaab-forosh.com",
+          "ir-am61ex.ketaab-forosh.com",
+          "am1x.ketaab-forosh.com",
+          "tr196ex-r.ketaab-forosh.com",
           "ex185bh.irketaab.com",
+          "de3co.ketaab.info",
+          "jp2.irketaab.com",
+          "n-desin2.gozarfile.com",
+          "us113res.gozarfile.com",
+          "philp.gozarfile.com",
+          "fr109ex-r.ketaab-forosh.com",
+          "tr254-new.gozarfile.com",
+          "singapore84.gozarfile.com",
+          "tr23ex.irketaab.com",
+          "ukraine2obfs.gozarfile.com",
+          "fi2obfs2.irketaab.com",
+          "se50ex.ketaab-forosh.com",
+          "smca.ketaab-forosh.com",
+          "usres1.ketaab-forosh.com",
+          "dkreal2.gozarfile.com",
+          "ex189it-r.ketaab-forosh.com",
+          "trres3.irketaab.com",
+          "canada2obf.gozarfile.com",
+          "georgia1obs.gozarfile.com",
+          "oman3.irketaab.com",
+          "in41ex-r.ketaab-forosh.com",
+          "us154ex-r.ketaab-forosh.com",
+          "ex178ca-r.ketaab-forosh.com",
+          "bahrain.gozarfile.com",
+          "tr208-new.ipgozarz.com",
+          "deres1.gozarfile.com",
+          "pakistan.gozarfile.com",
+          "nl58ob.gozarfile.com",
+          "smde4.irketaab.com",
+          "tr247-new.gozarfile.com",
+          "tr45ex-r.irketaab.com",
+          "se50ex-r.ketaab-forosh.com",
+          "ge42ex.ketaab-forosh.com",
+          "de226exf.ketaab-forosh.com",
+          "nl214ob.irketaab.com",
+          "smfr4.irketaab.com",
+          "us214ex-r.ketaab-forosh.com",
+          "us214ex.ketaab-forosh.com",
+          "au2obfs.gozarfile.com",
+          "it-owl1.ketaab-forosh.com",
+          "de230obf.gozarfile.com",
+          "tr-obfs-22.ketaab-forosh.com",
+          "om72ex.ketaab-forosh.com",
+          "ie2.gozarfile.com",
+          "am-ob-2.gozarfile.com",
+          "tr135-new.gozarfile.com",
+          "muscat.gozarfile.com",
+          "bh14ex.ketaab-forosh.com",
+          "se2obfs.gozarfile.com",
+          "smch2.irketaab.com",
+          "hk1-obf.gozarfile.com",
+          "baghdad.gozarfile.com",
+          "greece52.gozarfile.com",
+          "au41ex.ketaab-forosh.com",
+          "ir-tr65exf-r.ketaab-forosh.com",
+          "tr208ex.ketaab-forosh.com",
+          "am6o.gozarfile.com",
+          "am26ex-r.ketaab-forosh.com",
+          "ae-obf-z2.irketaab.com",
+          "dkreal.ketaab-forosh.com",
+          "tr198ex.ketaab-forosh.com",
+          "at-ob.gozarfile.com",
+          "ger2obf.ketaab-forosh.com",
+          "moon1.ketaab.info",
+          "de23ex.ketaab-forosh.com",
+          "pk202exf.ketaab-forosh.com",
+          "tr64-ex.ketaab-forosh.com",
+          "smfi.irketaab.com",
+          "gb58ob.gozarfile.com",
+          "us53ex-r.ketaab-forosh.com",
+          "nl58ex.ketaab-forosh.com",
+          "ir-ch62ex.ketaab-forosh.com",
+          "br-obf1.ketaab-forosh.com",
+          "n-de2ob2.irketaab.com",
+          "r-de2.irketaab.com",
+          "us53ex.ketaab-forosh.com",
+          "bh14ex-r.ketaab-forosh.com",
+          "dk220exf.ketaab-forosh.com",
+          "n-de1obfs.ketaab-forosh.com",
+          "armenia3obfs.gozarfile.com",
+          "ae65ex.ketaab-forosh.com",
+          "uk58ex.ketaab-forosh.com",
+          "ex154us.ketaab-forosh.com",
+          "ex189it.ketaab-forosh.com",
+          "az132ex.ketaab-forosh.com",
+          "tr64-ex-r.ketaab-forosh.com",
+          "tr-owl1.ketaab-forosh.com",
+          "dk220exf-r.ketaab-forosh.com",
+          "ge42ex-r.ketaab-forosh.com",
+          "sg84ex.ketaab-forosh.com",
+          "usa2res1ob.ketaab-forosh.com",
+          "iq85ex-r.ketaab-forosh.com",
+          "tr73-new.ipgozarz.com",
+          "tr198-new.irketaab.com",
+          "deresnew3.ketaab-forosh.com",
+          "newnlreal1.ipgozarz.com",
+          "iq85ex.ketaab-forosh.com",
+          "tr49-new.gozarfile.com",
+          "az2f.ketaab-forosh.com",
+          "smmy.gozarfile.com",
+          "ca242ob.gozarfile.com",
+          "hktr.gozarfile.com",
+          "de23ex-r.ketaab-forosh.com",
+          "unitedstates2obfs.gozarfile.com",
+          "ae2obfs2.irketaab.com",
+          "de-con-1.gozarfile.com",
+          "denew1ob.irketaab.com",
+          "oman2.irketaab.com",
+          "ca59ex.ketaab-forosh.com",
+          "in41ex.ketaab-forosh.com",
+          "ir-tr65exf.ketaab-forosh.com",
+          "colombia1obfs.gozarfile.com",
+          "am61ex-r.ketaab-forosh.com",
+          "gb3obfs.gozarfile.com",
+          "uk58ex-r.ketaab-forosh.com",
+          "deco.ketaab.info",
+          "ukco.ketaab.info",
           "us214c.gozarfile.com",
-          "unitedstates2obfs.gozarfile.com"
+          "de4res.ketaab-forosh.com",
+          "ae65ex-r.ketaab-forosh.com",
+          "tr208ex-r.ketaab-forosh.com",
+          "usresidential1.gozarfile.com"
         ],
         "server": "dns-direct"
       },
@@ -180,28 +187,6 @@
         "domain": "cp.cloudflare.com",
         "server": "dns-remote",
         "rewrite_ttl": 3000
-      },
-      {
-        "rule_set": [
-          "geosite-ads",
-          "geosite-malware",
-          "geosite-phishing",
-          "geosite-cryptominers",
-          "geoip-malware",
-          "geoip-phishing"
-        ],
-        "server": "dns-block"
-      },
-      {
-        "domain_suffix": ".ir",
-        "server": "dns-direct"
-      },
-      {
-        "rule_set": [
-          "geoip-ir",
-          "geosite-ir"
-        ],
-        "server": "dns-direct"
       }
     ],
     "final": "dns-remote",
@@ -211,8 +196,8 @@
         "104.17.147.22",
         "104.18.1.48",
         "104.18.0.48",
-        "2a06:98c1:3122::",
-        "2a06:98c1:3123::"
+        "2606:4700::6812:130",
+        "2606:4700::6812:30"
       ]
     },
     "independent_cache": true
@@ -250,161 +235,159 @@
       "tag": "select",
       "outbounds": [
         "auto",
-        "🇩🇪 GERMANY-9 cmemv31dt02m3cc3suplym3hx",
-        "🇺🇸 USA-Res3 cmae7ooed0019fddvo7sskhcc",
-        "🇬🇧 UnitedKigndom 2 cmb3ujoy200xa72oz69d47qjs",
-        "🇴🇲 Oman cme10m5lw00vs11t58pxoirev",
-        "🇷🇺 Russia cmbct3mt100y5d34rq8k652qn",
-        "🇺🇸 US-RES4 cme1uosrp033j11t5pb2c6zbc",
+        "🇹🇷 TURKEY-RES3 cmhmh6kgo0000rsigusmz62ip",
+        "🇹🇷 Turkey-RES4 cmhtn4ic8007212hxhqkp821s",
+        "🇫🇷France-6 cmi9hjgz60000le1pkdha4ye4",
+        "🇧🇷 Brazil cmidnjblc000013of4r0cpgf0",
+        "🇹🇷 TURKEY-RES-8 cmgls6hxf000ek8y9vr9m4f1h",
+        "🇦🇿 Azerbaijan cmhhy5i7a01533qovg2b4loih",
+        "🇳🇱 Netherlands 2 cmjeiac9k0000oca7q598y31o",
+        "🇯🇵 Japan cmjiecw8500m2s1w4fqutyujx",
+        "🇮🇪 Ireland cmidopmcq0001wmwrkzt0waue",
+        "🇨🇭 Swiss 2 cmjkkx0qb0060exm24z160itk",
         "🇧🇭 Bahrain cma0nqvty00azvrto4kdtgpv8",
-        "🇹🇷 TURKEY-Res2 cmeer3npu017lcc3syu4qgaym",
-        "🇳🇱 Netherlands ||| cmb3ufhke00os72ozqe6wwf84",
-        "🇦🇹 Austria || cmb441qkm00053sr1epn3lsue",
         "🇸🇪 Sweden cma5nvwh0000711q8cr8r4fvs",
-        "🇫🇷France-8 cmcnganoe00kjacxwop81umf7",
-        "🇳🇴 Norway 2 cmbdzvocd01ktd34rs65hvor6",
-        "🇫🇷France-6 cmclz0r4a0000acxwk7rc00zc",
-        "🇦🇲 ArmeniaCLOUD-Res 0 cmcbyv4fu00ukhsln5gqh1dz4",
-        "🇳🇱 Netherlands cmeopdtlb03dhcc3s3mbkzuhb",
-        "🇬🇪 Georgia-Res cmd5rn43w04rkacxwdxulciqy",
-        "🇬🇧 UK cmeoptr0z03sicc3sw2p0t4q7",
-        "🇩🇪 N-Germany 5 0 cmauy7iph00f6s9x0dt8fu5vb",
-        "🇨🇦 Canada2 cmbfjusl302dod34r9f7gvjfk",
-        "🇧🇷 Brazil-Res cmepm9lzz04d2cc3s2t5257by",
-        "🇴🇲 Oman 2 cmfc9yfe006m6cc3s7wcb5ubg",
-        "🇮🇸 Iceland cmarb37mo00ftuzi2ityexbsb",
-        "🇲🇾 Malaysia cme1127et01sm11t57gu2faff",
-        "🇦🇪 Emirates-RES1 cm9se07kf00zbtmjumtsp9uby",
-        "🇨🇭 Swiss cmbtwbb2n01r9jivjydqnxajb",
-        "🇦🇲 Armenia2-Res 0 clu2vbo4r05a28i4lhrqtddlo",
-        "🇹🇷 Turkey-NEW2 cmajysvqq00at1220zwb4zz75",
-        "🇧🇭 Bahrain-RES1 cmaurke9p002gs9x0idw2lcdj",
-        "🇩🇪 Germany-Res cmccy5izd0000m3bg9fst34uw",
         "🇺🇸USA_RES1 cmabiw7070046fz1wgkoyrgo2",
-        "🇵🇭 Philippine cmebpk0a600bwcc3sidhi4prj",
-        "🇺🇸 USA-RES2 cmalfcvtv0000vp6vh9pmdcw5",
-        "🇦🇿 Azerbaijan 2 cmekb0rpj01xbcc3sh8q22734",
-        "🇫🇷France-7 cmcn8v5je00b7acxwx3qgrtdi",
-        "🇩🇪 GERMANY-10 cmenntgkk0326cc3sznj35667",
-        "🇩🇪 N-Germany 4 cmb455d7f00rz3sr1964r9e7u",
+        "🇺🇸 USA-Res3 cmae7ooed0019fddvo7sskhcc",
+        "🇨🇦 Canada cmafd16dp00ju1ajg009x7dzg",
+        "🇩🇪 Germany cmgidjv6x00u0x78g39kz7hab",
+        "🇺🇦 Ukraine 2 cmibb2yzs0094le1psabhy5m3",
+        "🇹🇷 Turkey-RES cmd75mhoy055cacxwwz5jyldr",
+        "🇹🇷 TURKEY-Res2 cmeer3npu017lcc3syu4qgaym",
+        "🇬🇧 UK cmeoptr0z03sicc3sw2p0t4q7",
+        "🇦🇲 Armenia5-Res cm9imjm0a004kk65uo9x6m8sg",
+        "🇦🇲 Armenia6-RES cmed27yu000tocc3sb5j87k59",
+        "🇦🇲 ArmeniaCLOUD-Res 0 cmcbyv4fu00ukhsln5gqh1dz4",
+        "🇰🇿 Kazakhstan cmhm2egcj00bpijw101v10r0j",
+        "🇨🇭 Swiss cminnesl300adowk9s3zwiwqu",
+        "🇹🇷 Turkey-RES-6 cmjd99xbt0000908yt021602a",
+        "🇳🇱 Netherlands cmjej7a5k0016oca7hgqxn72h",
+        "🇦🇪 Emirates-RES2 cmjkjco8f00zis1w4u21r7yd1",
         "🇫🇮 Finland 0 clu6z79q8010nwkalcbco59pk",
         "🇫🇮 Finland 1 clu6z79q8010nwkalcbco59pk",
-        "🇭🇰 HongKong cmarba7if00mjuzi2cfi6rj8g",
-        "🇩🇪 N-Germany O-2 cmbcdzmtu00l2d34rba1qktpe",
-        "🇺🇦 Ukraine 2 cmbe00i6001t7d34rl53n5fk5",
-        "🇹🇷 Turkey-RES cmd75mhoy055cacxwwz5jyldr",
-        "🇨🇭 Swiss 2 cmeophd4o03hncc3s28af03dw",
+        "🇺🇸 USA cm7qw0pih01xf3gvxvpi3wluk",
+        "🇺🇸USA_NEW1 cm9y9irls005wvk9cxqgkpqje",
+        "🇬🇧 UK-6 cmh9mjgt8006p3qovub16be1h",
+        "🇹🇷 Turkey-RES-11 cmj70xnp101aj2l9abhvm22wq",
+        "🇦🇺 Australia cmjeh6bgy006y908y2jb79vun",
+        "🇦🇪 Emirates 4 cmi3nnvl600lzrek0iyg0zuah",
+        "🇹🇷 Turkey-RES-10 cmgmbjo8i008z12hqyb4du2c2",
+        "🇹🇷 TURKEY-RES-9 cmh0m00cu01cm103f9b0gom2u",
+        "🇦🇲 Armenia-Res cm87kdzey0002dtca2rfg6qer",
+        "🇺🇸 USA-RES2 cmalfcvtv0000vp6vh9pmdcw5",
+        "🇭🇰 HongKong cmibbgo7900l5le1prf56u7ik",
+        "🇦🇿 Azerbaijan 2 cmiqcs4tj00ksowk9e2i12duk",
+        "🇩🇪 Germany 2 0 cmjkm9lni00hwexm2hq4x77r4",
+        "🇩🇪 Germany 2 1 cmjkm9lni00hwexm2hq4x77r4",
         "🇮🇳 India cmambe4x60064kfersi5zw49t",
-        "🇨🇦Canada3 cmeopyvha03yccc3s2hq16sds",
+        "🇧🇭 Bahrain-RES1 cmaurke9p002gs9x0idw2lcdj",
+        "🇩🇪 N-Germany 5 0 cmauy7iph00f6s9x0dt8fu5vb",
+        "🇩🇪 Germany-RES2 cm9uemncl00geqs6ve1utko7h",
+        "🇮🇹 Italy - NEW 1 cmadsmef100biihwgsta68skf",
+        "🇩🇪 N-Germany O-1 cmawms3cg000g10w4904bs27f",
+        "🇬🇧 UnitedKigndom 2 cmb3ujoy200xa72oz69d47qjs",
+        "🇦🇹 Austria || cmb441qkm00053sr1epn3lsue",
+        "🇫🇮 Finland 2 cmb44dsna00ca3sr1qvjrzc3e",
+        "🇩🇪 N-Germany 4 cmb455d7f00rz3sr1964r9e7u",
+        "🇩🇪 N-Germany O-2 cmbcdzmtu00l2d34rba1qktpe",
+        "🇨🇦 Canada2 cmbfjusl302dod34r9f7gvjfk",
+        "🇫🇷 France 2 0 cmjko4hef00nwexm2lxhp932a",
+        "🇫🇷 France 2 1 cmjko4hef00nwexm2lxhp932a",
         "🇩🇪 GERMANY-RES3 cmbrlu4l4009eaxsdgoc34b02",
-        "🇨🇦 Canada cmafd16dp00ju1ajg009x7dzg",
-        "🇩🇰 Denmark-RES cmbgevbf302med34rsfittxep",
-        "🇸🇬 Singapore cmf50x8j205tycc3skiiexdu6",
-        "🇴🇲 Oman 3 cmfca81rm06x3cc3s2bawgzq2",
+        "🇩🇪 Germany-Res cmccy5izd0000m3bg9fst34uw",
+        "🇺🇸 USA_RES cmi5054jm00yhrek0qm8rmjgg",
+        "🇫🇷France-8 cmcnganoe00kjacxwop81umf7",
+        "🇬🇪 Georgia-Res cmd5rn43w04rkacxwdxulciqy",
         "🇫🇷 France 3 cmdnbb1af091hacxw0ddvag1y",
         "🇩🇪 N-Germany 2 cmdyy6bc600fp11t5iovnbz3w",
-        "🇦🇲 Armenia5-Res cm9imjm0a004kk65uo9x6m8sg",
+        "🇴🇲 Oman cme10m5lw00vs11t58pxoirev",
+        "🇲🇾 Malaysia cme1127et01sm11t57gu2faff",
         "🇮🇶 IRAQ cme1176qp023o11t5ihe6q6wv",
-        "🇩🇪 Germany cm823sni10000q8s491fpqs6k",
-        "🇺🇸USA_NEW1 cm9y9irls005wvk9cxqgkpqje",
-        "🇦🇪 Emirates-RES2 cm9se7vdb0195tmjuqsclh9f7",
-        "🇦🇪 Emirates 4 cmawsm5dt000a14nyc8hi3y6t",
-        "🇺🇸 USA cm7qw0pih01xf3gvxvpi3wluk",
-        "🇫🇷 France 2 0 cm9vvr19b005a7qp29lk6p11o",
-        "🇫🇷 France 2 1 cm9vvr19b005a7qp29lk6p11o",
-        "🇩🇰 Cloud-Denmark 0 cmbzlcrdo00ckkq0ozqve2phr",
-        "🇦🇲 Armenia6-RES cmed27yu000tocc3sb5j87k59",
+        "🇺🇸 US-RES4 cme1uosrp033j11t5pb2c6zbc",
+        "🇵🇭 Philippine cmebpk0a600bwcc3sidhi4prj",
+        "🇹🇷 Turkey-RES-7 cmij0o9na002qm187z6evnx5a",
+        "🇹🇷 TURKEY-RES14 cmisnhf2h00ufowk9wazfvbwv",
         "🇩🇪 Germany 3 cmem8qfrz02cbcc3s8ncgtdie",
-        "🇦🇲 Armenia-Res cm87kdzey0002dtca2rfg6qer",
-        "🇹🇷 Turkey - NEW 1 cmf53mofo05y0cc3s4wtsroar",
-        "🇦🇹 Austria 0 cmbuhhud20271jivjz1xahseg",
-        "🇦🇹 Austria 1 cmbuhhud20271jivjz1xahseg",
-        "🇦🇿 Azerbaijan cme0hqruy00o411t5u01t5pqt",
+        "🇩🇪 GERMANY-9 cmemv31dt02m3cc3suplym3hx",
+        "🇩🇪 GERMANY-10 cmenntgkk0326cc3sznj35667",
         "🇩🇪 GERMANY-RES4 cmeojlmyg038acc3se15mnvhg",
-        "🇳🇱 Netherlands 2 cmeoppppk03mzcc3s6rnwvkf5",
-        "🇫🇮 Finland 2 cmb44dsna00ca3sr1qvjrzc3e",
-        "🇬🇧 UK-6 cmcng4pj300gvacxwsyva3hgw",
-        "🇮🇹 Italy - NEW 1 cmadsmef100biihwgsta68skf",
-        "🇮🇪 Ireland cmbdzosmb01dqd34re3a8hh8u",
-        "🇦🇪 Emirates-Dubai cmfe4rxvb07cmcc3svc9eqrzw",
-        "🇰🇿 Kazakhstan cmbe0adc90202d34r1tv6rvwt",
-        "🇩🇪 Germany 2 0 cm9vvx7kv00gn7qp2yiw2acq1",
-        "🇩🇪 Germany 2 1 cm9vvx7kv00gn7qp2yiw2acq1",
-        "🇩🇰 Denmark2-RES cmbgfn54j02v7d34rfhwyk0w0",
-        "🇵🇰 Pakistan cme11azm502em11t5rjzyk35u",
-        "🇩🇪 Germany-RES2 cm9uemncl00geqs6ve1utko7h",
-        "🇦🇺 Australia cmauxdxyr00e1s9x02vbq9wy6",
-        "🇩🇪 N-Germany O-1 cmawms3cg000g10w4904bs27f",
-        "🇹🇷 TURKEY-Res1 cmagi1wk9000pmjoudn6tgyjn",
-        "🇹🇷 TURKEY-RES3 cmb2nhkwx009x72ozjprvwscw",
-        "US1-T🇺🇸V2 0",
+        "🇹🇷 TURKEY-RES-13 cmj90l8tu01nk2l9aqag4jdi4",
+        "🇵🇰 Pakistan cmjehi8w000b0908yv5oimyug",
+        "🇺🇸 Cloud-USA 0 cmjekwpsi0000s1w4q7m0z2qe",
+        "🇨🇦Canada3 cmeopyvha03yccc3s2hq16sds",
+        "🇸🇬 Singapore cmf50x8j205tycc3skiiexdu6",
+        "🇴🇲 Oman 2 cmfc9yfe006m6cc3s7wcb5ubg",
+        "🇴🇲 Oman 3 cmfca81rm06x3cc3s2bawgzq2",
+        "🇹🇷 Turkey-NEW2 cmi9edeyu01nkrek07hjuhnzn",
+        "🇹🇷 Turkey - NEW 1 cmf53mofo05y0cc3s4wtsroar",
+        "🇹🇷 TURKEY-Res1 cmh32nap201r0103fh4le4ulg",
+        "🇹🇷 Turkey-RES-5 cmgkjrra701g1x78gdfdgpdos",
+        "🇹🇷 TURKEY-RES15 cmj95lce601sd2l9a46rbzhjq",
+        "🇬🇷 Greece cmhgpzl7200ua3qovlm0k5p36",
+        "🇳🇱 Netherlands ||| cmjff3btm006us1w4cp9bvush",
+        "Sweden-T🇸🇪V2 0",
         "AE-TUN🇦🇪V2 1",
-        "AM-TN🇦🇲V2 2",
-        "AU-TN🇦🇺V2 3",
-        "Canada-TN🇨🇦V2 4",
-        "DK🇩🇰-RG-V2 5",
-        "BH-T🇧🇭V2 6",
-        "DK-TN🇩🇰V2 7",
-        "US-TN145-H🇺🇸V2 8",
-        "CA-TN178🇨🇦V2 9",
-        "ITALY-TN🇮🇹V2 10",
-        "IRAQ-TN🇮🇶V2 11",
-        "AM-TUN🇦🇲V2 12",
-        "Swiss-TUN🇨🇭V2 13",
-        "TR-TUN🇹🇷V2 14",
-        "US-TUN🇺🇸V2 15",
-        "NL-TN🇳🇱V2 16",
-        "Oman-TN🇴🇲V2 17",
-        "Pakistan-TN🇵🇰V2 18",
-        "UK-TN🇬🇧V2 19",
-        "US-TN4🇺🇸V2 20",
-        "US-TN214-C🇺🇸V2 21",
-        "US-TN53-P🇺🇸V2 22",
-        "AM26-TUN🇦🇲V2 23",
-        "TR2-TN🇹🇷V2 24",
-        "GE-TN🇬🇪V2 25",
-        "IN-TN🇮🇳V2 26",
-        "TR3-TN🇹🇷V2 27",
-        "UK2-TN🇬🇧V2 28",
-        "DE23-TN🇩🇪V2 29",
-        "AM26-RG🇦🇲V2 30",
-        "CA-RG178🇨🇦V2 31",
-        "DE23-RG🇩🇪V2 32",
-        "GE-RG🇬🇪V2 33",
-        "IN-RG🇮🇳V2 34",
-        "ITALY-RG🇮🇹V2 35",
-        "TR2-RG🇹🇷V2 36",
-        "TR3-RG🇹🇷V2 37",
-        "UK2-RG🇬🇧V2 38",
-        "US-R1🇺🇸V2 39",
-        "US-R214-C🇺🇸V2 40",
-        "US-RG145-H🇺🇸V2 41",
-        "US-RG53-P🇺🇸V2 42",
-        "AZ-RG🇦🇿V2 43",
-        "AZ-TN🇦🇿V2 44",
-        "BH-R🇧🇭V2 45",
-        "UK3-R🇬🇧V2 46",
-        "UK3-RG🇬🇧V2 47",
-        "AE-RG🇦🇪V2 48",
-        "AE-R🇦🇪V2 49",
-        "AM-RG🇦🇲V2 50",
-        "Germany-TN🇩🇪V2 51",
-        "AM-R🇦🇲V2 52",
-        "IRAQ-RG🇮🇶V2 53",
-        "FR-R🇫🇷V2 54",
-        "FR-RG🇫🇷V2 55",
-        "GE-GW🇬🇪V2 56",
-        "DE23-GW🇩🇪V2 57",
-        "UK2-GW🇬🇧V2 58",
-        "TR3-GW🇹🇷V2 59",
-        "TR2-GW🇹🇷V2 60",
-        "AM26-GW🇦🇲V2 61",
-        "BH2-T🇧🇭V2 62",
-        "BH2-R🇧🇭V2 63",
-        "BH2-GW🇧🇭V2 64",
-        "Singapore-T🇸🇬V2 65",
-        "Singapore-RG🇸🇬V2 66",
-        "Singapore-GW🇸🇬V2 67"
+        "UK-TN🇬🇧V2 2",
+        "Canada-TN🇨🇦V2 3",
+        "AE-RG🇦🇪V2 4",
+        "US1-T🇺🇸V2 5",
+        "DK🇩🇰-RG-V2 6",
+        "IN-RG🇮🇳V2 7",
+        "US-R1🇺🇸V2 8",
+        "US-R214-C🇺🇸V2 9",
+        "US-RG145-H🇺🇸V2 10",
+        "US-RG53-P🇺🇸V2 11",
+        "US-TN145-H🇺🇸V2 12",
+        "US-TN214-C🇺🇸V2 13",
+        "US-TN4🇺🇸V2 14",
+        "US-TN53-P🇺🇸V2 15",
+        "US-TUN🇺🇸V2 16",
+        "UK3-R🇬🇧V2 17",
+        "UK3-RG🇬🇧V2 18",
+        "TR4-T🇹🇷V2 19",
+        "AU-TN🇦🇺V2 20",
+        "TR3-RG🇹🇷V2 21",
+        "TR2-RG🇹🇷V2 22",
+        "BH-R🇧🇭V2 23",
+        "DE23-SG🇩🇪V2 24",
+        "AM26-TUN🇦🇲V2 25",
+        "AM-TUN🇦🇲V2 26",
+        "BH-T🇧🇭V2 27",
+        "DE23-ST🇩🇪V2 28",
+        "TR4-RG🇹🇷V2 29",
+        "Sweden-R🇸🇪V2 30",
+        "CA-TN178🇨🇦V2 31",
+        "DK-TN🇩🇰V2 32",
+        "GE-TN🇬🇪V2 33",
+        "IN-TN🇮🇳V2 34",
+        "IRAQ-TN🇮🇶V2 35",
+        "ITALY-TN🇮🇹V2 36",
+        "NL-TN🇳🇱V2 37",
+        "Oman-TN🇴🇲V2 38",
+        "Pakistan-TN🇵🇰V2 39",
+        "Swiss-TUN🇨🇭V2 40",
+        "TR2-TN🇹🇷V2 41",
+        "TR3-TN🇹🇷V2 42",
+        "TR-TUN🇹🇷V2 43",
+        "ITALY-RG🇮🇹V2 44",
+        "TR5-T🇹🇷V2 45",
+        "AE-R🇦🇪V2 46",
+        "AM26-RG🇦🇲V2 47",
+        "FR-TN🇫🇷V2 48",
+        "AM-RG🇦🇲V2 49",
+        "CA-RG178🇨🇦V2 50",
+        "AZ-RG🇦🇿V2 51",
+        "AZ-TN🇦🇿V2 52",
+        "DE23-RG🇩🇪V2 53",
+        "DE23-TN🇩🇪V2 54",
+        "GE-RG🇬🇪V2 55",
+        "TR6-T🇹🇷V2 56",
+        "BH2-T🇧🇭V2 57",
+        "FR-R🇫🇷V2 58",
+        "IRAQ-RG🇮🇶V2 59",
+        "Singapore-T🇸🇬V2 60",
+        "TR6-SG🇹🇷V2 61",
+        "TR5-RG🇹🇷V2 62"
       ],
       "default": "auto",
       "interrupt_exist_connections": true
@@ -413,161 +396,159 @@
       "type": "urltest",
       "tag": "auto",
       "outbounds": [
-        "🇩🇪 GERMANY-9 cmemv31dt02m3cc3suplym3hx",
-        "🇺🇸 USA-Res3 cmae7ooed0019fddvo7sskhcc",
-        "🇬🇧 UnitedKigndom 2 cmb3ujoy200xa72oz69d47qjs",
-        "🇴🇲 Oman cme10m5lw00vs11t58pxoirev",
-        "🇷🇺 Russia cmbct3mt100y5d34rq8k652qn",
-        "🇺🇸 US-RES4 cme1uosrp033j11t5pb2c6zbc",
+        "🇹🇷 TURKEY-RES3 cmhmh6kgo0000rsigusmz62ip",
+        "🇹🇷 Turkey-RES4 cmhtn4ic8007212hxhqkp821s",
+        "🇫🇷France-6 cmi9hjgz60000le1pkdha4ye4",
+        "🇧🇷 Brazil cmidnjblc000013of4r0cpgf0",
+        "🇹🇷 TURKEY-RES-8 cmgls6hxf000ek8y9vr9m4f1h",
+        "🇦🇿 Azerbaijan cmhhy5i7a01533qovg2b4loih",
+        "🇳🇱 Netherlands 2 cmjeiac9k0000oca7q598y31o",
+        "🇯🇵 Japan cmjiecw8500m2s1w4fqutyujx",
+        "🇮🇪 Ireland cmidopmcq0001wmwrkzt0waue",
+        "🇨🇭 Swiss 2 cmjkkx0qb0060exm24z160itk",
         "🇧🇭 Bahrain cma0nqvty00azvrto4kdtgpv8",
-        "🇹🇷 TURKEY-Res2 cmeer3npu017lcc3syu4qgaym",
-        "🇳🇱 Netherlands ||| cmb3ufhke00os72ozqe6wwf84",
-        "🇦🇹 Austria || cmb441qkm00053sr1epn3lsue",
         "🇸🇪 Sweden cma5nvwh0000711q8cr8r4fvs",
-        "🇫🇷France-8 cmcnganoe00kjacxwop81umf7",
-        "🇳🇴 Norway 2 cmbdzvocd01ktd34rs65hvor6",
-        "🇫🇷France-6 cmclz0r4a0000acxwk7rc00zc",
-        "🇦🇲 ArmeniaCLOUD-Res 0 cmcbyv4fu00ukhsln5gqh1dz4",
-        "🇳🇱 Netherlands cmeopdtlb03dhcc3s3mbkzuhb",
-        "🇬🇪 Georgia-Res cmd5rn43w04rkacxwdxulciqy",
-        "🇬🇧 UK cmeoptr0z03sicc3sw2p0t4q7",
-        "🇩🇪 N-Germany 5 0 cmauy7iph00f6s9x0dt8fu5vb",
-        "🇨🇦 Canada2 cmbfjusl302dod34r9f7gvjfk",
-        "🇧🇷 Brazil-Res cmepm9lzz04d2cc3s2t5257by",
-        "🇴🇲 Oman 2 cmfc9yfe006m6cc3s7wcb5ubg",
-        "🇮🇸 Iceland cmarb37mo00ftuzi2ityexbsb",
-        "🇲🇾 Malaysia cme1127et01sm11t57gu2faff",
-        "🇦🇪 Emirates-RES1 cm9se07kf00zbtmjumtsp9uby",
-        "🇨🇭 Swiss cmbtwbb2n01r9jivjydqnxajb",
-        "🇦🇲 Armenia2-Res 0 clu2vbo4r05a28i4lhrqtddlo",
-        "🇹🇷 Turkey-NEW2 cmajysvqq00at1220zwb4zz75",
-        "🇧🇭 Bahrain-RES1 cmaurke9p002gs9x0idw2lcdj",
-        "🇩🇪 Germany-Res cmccy5izd0000m3bg9fst34uw",
         "🇺🇸USA_RES1 cmabiw7070046fz1wgkoyrgo2",
-        "🇵🇭 Philippine cmebpk0a600bwcc3sidhi4prj",
-        "🇺🇸 USA-RES2 cmalfcvtv0000vp6vh9pmdcw5",
-        "🇦🇿 Azerbaijan 2 cmekb0rpj01xbcc3sh8q22734",
-        "🇫🇷France-7 cmcn8v5je00b7acxwx3qgrtdi",
-        "🇩🇪 GERMANY-10 cmenntgkk0326cc3sznj35667",
-        "🇩🇪 N-Germany 4 cmb455d7f00rz3sr1964r9e7u",
+        "🇺🇸 USA-Res3 cmae7ooed0019fddvo7sskhcc",
+        "🇨🇦 Canada cmafd16dp00ju1ajg009x7dzg",
+        "🇩🇪 Germany cmgidjv6x00u0x78g39kz7hab",
+        "🇺🇦 Ukraine 2 cmibb2yzs0094le1psabhy5m3",
+        "🇹🇷 Turkey-RES cmd75mhoy055cacxwwz5jyldr",
+        "🇹🇷 TURKEY-Res2 cmeer3npu017lcc3syu4qgaym",
+        "🇬🇧 UK cmeoptr0z03sicc3sw2p0t4q7",
+        "🇦🇲 Armenia5-Res cm9imjm0a004kk65uo9x6m8sg",
+        "🇦🇲 Armenia6-RES cmed27yu000tocc3sb5j87k59",
+        "🇦🇲 ArmeniaCLOUD-Res 0 cmcbyv4fu00ukhsln5gqh1dz4",
+        "🇰🇿 Kazakhstan cmhm2egcj00bpijw101v10r0j",
+        "🇨🇭 Swiss cminnesl300adowk9s3zwiwqu",
+        "🇹🇷 Turkey-RES-6 cmjd99xbt0000908yt021602a",
+        "🇳🇱 Netherlands cmjej7a5k0016oca7hgqxn72h",
+        "🇦🇪 Emirates-RES2 cmjkjco8f00zis1w4u21r7yd1",
         "🇫🇮 Finland 0 clu6z79q8010nwkalcbco59pk",
         "🇫🇮 Finland 1 clu6z79q8010nwkalcbco59pk",
-        "🇭🇰 HongKong cmarba7if00mjuzi2cfi6rj8g",
-        "🇩🇪 N-Germany O-2 cmbcdzmtu00l2d34rba1qktpe",
-        "🇺🇦 Ukraine 2 cmbe00i6001t7d34rl53n5fk5",
-        "🇹🇷 Turkey-RES cmd75mhoy055cacxwwz5jyldr",
-        "🇨🇭 Swiss 2 cmeophd4o03hncc3s28af03dw",
+        "🇺🇸 USA cm7qw0pih01xf3gvxvpi3wluk",
+        "🇺🇸USA_NEW1 cm9y9irls005wvk9cxqgkpqje",
+        "🇬🇧 UK-6 cmh9mjgt8006p3qovub16be1h",
+        "🇹🇷 Turkey-RES-11 cmj70xnp101aj2l9abhvm22wq",
+        "🇦🇺 Australia cmjeh6bgy006y908y2jb79vun",
+        "🇦🇪 Emirates 4 cmi3nnvl600lzrek0iyg0zuah",
+        "🇹🇷 Turkey-RES-10 cmgmbjo8i008z12hqyb4du2c2",
+        "🇹🇷 TURKEY-RES-9 cmh0m00cu01cm103f9b0gom2u",
+        "🇦🇲 Armenia-Res cm87kdzey0002dtca2rfg6qer",
+        "🇺🇸 USA-RES2 cmalfcvtv0000vp6vh9pmdcw5",
+        "🇭🇰 HongKong cmibbgo7900l5le1prf56u7ik",
+        "🇦🇿 Azerbaijan 2 cmiqcs4tj00ksowk9e2i12duk",
+        "🇩🇪 Germany 2 0 cmjkm9lni00hwexm2hq4x77r4",
+        "🇩🇪 Germany 2 1 cmjkm9lni00hwexm2hq4x77r4",
         "🇮🇳 India cmambe4x60064kfersi5zw49t",
-        "🇨🇦Canada3 cmeopyvha03yccc3s2hq16sds",
+        "🇧🇭 Bahrain-RES1 cmaurke9p002gs9x0idw2lcdj",
+        "🇩🇪 N-Germany 5 0 cmauy7iph00f6s9x0dt8fu5vb",
+        "🇩🇪 Germany-RES2 cm9uemncl00geqs6ve1utko7h",
+        "🇮🇹 Italy - NEW 1 cmadsmef100biihwgsta68skf",
+        "🇩🇪 N-Germany O-1 cmawms3cg000g10w4904bs27f",
+        "🇬🇧 UnitedKigndom 2 cmb3ujoy200xa72oz69d47qjs",
+        "🇦🇹 Austria || cmb441qkm00053sr1epn3lsue",
+        "🇫🇮 Finland 2 cmb44dsna00ca3sr1qvjrzc3e",
+        "🇩🇪 N-Germany 4 cmb455d7f00rz3sr1964r9e7u",
+        "🇩🇪 N-Germany O-2 cmbcdzmtu00l2d34rba1qktpe",
+        "🇨🇦 Canada2 cmbfjusl302dod34r9f7gvjfk",
+        "🇫🇷 France 2 0 cmjko4hef00nwexm2lxhp932a",
+        "🇫🇷 France 2 1 cmjko4hef00nwexm2lxhp932a",
         "🇩🇪 GERMANY-RES3 cmbrlu4l4009eaxsdgoc34b02",
-        "🇨🇦 Canada cmafd16dp00ju1ajg009x7dzg",
-        "🇩🇰 Denmark-RES cmbgevbf302med34rsfittxep",
-        "🇸🇬 Singapore cmf50x8j205tycc3skiiexdu6",
-        "🇴🇲 Oman 3 cmfca81rm06x3cc3s2bawgzq2",
+        "🇩🇪 Germany-Res cmccy5izd0000m3bg9fst34uw",
+        "🇺🇸 USA_RES cmi5054jm00yhrek0qm8rmjgg",
+        "🇫🇷France-8 cmcnganoe00kjacxwop81umf7",
+        "🇬🇪 Georgia-Res cmd5rn43w04rkacxwdxulciqy",
         "🇫🇷 France 3 cmdnbb1af091hacxw0ddvag1y",
         "🇩🇪 N-Germany 2 cmdyy6bc600fp11t5iovnbz3w",
-        "🇦🇲 Armenia5-Res cm9imjm0a004kk65uo9x6m8sg",
+        "🇴🇲 Oman cme10m5lw00vs11t58pxoirev",
+        "🇲🇾 Malaysia cme1127et01sm11t57gu2faff",
         "🇮🇶 IRAQ cme1176qp023o11t5ihe6q6wv",
-        "🇩🇪 Germany cm823sni10000q8s491fpqs6k",
-        "🇺🇸USA_NEW1 cm9y9irls005wvk9cxqgkpqje",
-        "🇦🇪 Emirates-RES2 cm9se7vdb0195tmjuqsclh9f7",
-        "🇦🇪 Emirates 4 cmawsm5dt000a14nyc8hi3y6t",
-        "🇺🇸 USA cm7qw0pih01xf3gvxvpi3wluk",
-        "🇫🇷 France 2 0 cm9vvr19b005a7qp29lk6p11o",
-        "🇫🇷 France 2 1 cm9vvr19b005a7qp29lk6p11o",
-        "🇩🇰 Cloud-Denmark 0 cmbzlcrdo00ckkq0ozqve2phr",
-        "🇦🇲 Armenia6-RES cmed27yu000tocc3sb5j87k59",
+        "🇺🇸 US-RES4 cme1uosrp033j11t5pb2c6zbc",
+        "🇵🇭 Philippine cmebpk0a600bwcc3sidhi4prj",
+        "🇹🇷 Turkey-RES-7 cmij0o9na002qm187z6evnx5a",
+        "🇹🇷 TURKEY-RES14 cmisnhf2h00ufowk9wazfvbwv",
         "🇩🇪 Germany 3 cmem8qfrz02cbcc3s8ncgtdie",
-        "🇦🇲 Armenia-Res cm87kdzey0002dtca2rfg6qer",
-        "🇹🇷 Turkey - NEW 1 cmf53mofo05y0cc3s4wtsroar",
-        "🇦🇹 Austria 0 cmbuhhud20271jivjz1xahseg",
-        "🇦🇹 Austria 1 cmbuhhud20271jivjz1xahseg",
-        "🇦🇿 Azerbaijan cme0hqruy00o411t5u01t5pqt",
+        "🇩🇪 GERMANY-9 cmemv31dt02m3cc3suplym3hx",
+        "🇩🇪 GERMANY-10 cmenntgkk0326cc3sznj35667",
         "🇩🇪 GERMANY-RES4 cmeojlmyg038acc3se15mnvhg",
-        "🇳🇱 Netherlands 2 cmeoppppk03mzcc3s6rnwvkf5",
-        "🇫🇮 Finland 2 cmb44dsna00ca3sr1qvjrzc3e",
-        "🇬🇧 UK-6 cmcng4pj300gvacxwsyva3hgw",
-        "🇮🇹 Italy - NEW 1 cmadsmef100biihwgsta68skf",
-        "🇮🇪 Ireland cmbdzosmb01dqd34re3a8hh8u",
-        "🇦🇪 Emirates-Dubai cmfe4rxvb07cmcc3svc9eqrzw",
-        "🇰🇿 Kazakhstan cmbe0adc90202d34r1tv6rvwt",
-        "🇩🇪 Germany 2 0 cm9vvx7kv00gn7qp2yiw2acq1",
-        "🇩🇪 Germany 2 1 cm9vvx7kv00gn7qp2yiw2acq1",
-        "🇩🇰 Denmark2-RES cmbgfn54j02v7d34rfhwyk0w0",
-        "🇵🇰 Pakistan cme11azm502em11t5rjzyk35u",
-        "🇩🇪 Germany-RES2 cm9uemncl00geqs6ve1utko7h",
-        "🇦🇺 Australia cmauxdxyr00e1s9x02vbq9wy6",
-        "🇩🇪 N-Germany O-1 cmawms3cg000g10w4904bs27f",
-        "🇹🇷 TURKEY-Res1 cmagi1wk9000pmjoudn6tgyjn",
-        "🇹🇷 TURKEY-RES3 cmb2nhkwx009x72ozjprvwscw",
-        "US1-T🇺🇸V2 0",
+        "🇹🇷 TURKEY-RES-13 cmj90l8tu01nk2l9aqag4jdi4",
+        "🇵🇰 Pakistan cmjehi8w000b0908yv5oimyug",
+        "🇺🇸 Cloud-USA 0 cmjekwpsi0000s1w4q7m0z2qe",
+        "🇨🇦Canada3 cmeopyvha03yccc3s2hq16sds",
+        "🇸🇬 Singapore cmf50x8j205tycc3skiiexdu6",
+        "🇴🇲 Oman 2 cmfc9yfe006m6cc3s7wcb5ubg",
+        "🇴🇲 Oman 3 cmfca81rm06x3cc3s2bawgzq2",
+        "🇹🇷 Turkey-NEW2 cmi9edeyu01nkrek07hjuhnzn",
+        "🇹🇷 Turkey - NEW 1 cmf53mofo05y0cc3s4wtsroar",
+        "🇹🇷 TURKEY-Res1 cmh32nap201r0103fh4le4ulg",
+        "🇹🇷 Turkey-RES-5 cmgkjrra701g1x78gdfdgpdos",
+        "🇹🇷 TURKEY-RES15 cmj95lce601sd2l9a46rbzhjq",
+        "🇬🇷 Greece cmhgpzl7200ua3qovlm0k5p36",
+        "🇳🇱 Netherlands ||| cmjff3btm006us1w4cp9bvush",
+        "Sweden-T🇸🇪V2 0",
         "AE-TUN🇦🇪V2 1",
-        "AM-TN🇦🇲V2 2",
-        "AU-TN🇦🇺V2 3",
-        "Canada-TN🇨🇦V2 4",
-        "DK🇩🇰-RG-V2 5",
-        "BH-T🇧🇭V2 6",
-        "DK-TN🇩🇰V2 7",
-        "US-TN145-H🇺🇸V2 8",
-        "CA-TN178🇨🇦V2 9",
-        "ITALY-TN🇮🇹V2 10",
-        "IRAQ-TN🇮🇶V2 11",
-        "AM-TUN🇦🇲V2 12",
-        "Swiss-TUN🇨🇭V2 13",
-        "TR-TUN🇹🇷V2 14",
-        "US-TUN🇺🇸V2 15",
-        "NL-TN🇳🇱V2 16",
-        "Oman-TN🇴🇲V2 17",
-        "Pakistan-TN🇵🇰V2 18",
-        "UK-TN🇬🇧V2 19",
-        "US-TN4🇺🇸V2 20",
-        "US-TN214-C🇺🇸V2 21",
-        "US-TN53-P🇺🇸V2 22",
-        "AM26-TUN🇦🇲V2 23",
-        "TR2-TN🇹🇷V2 24",
-        "GE-TN🇬🇪V2 25",
-        "IN-TN🇮🇳V2 26",
-        "TR3-TN🇹🇷V2 27",
-        "UK2-TN🇬🇧V2 28",
-        "DE23-TN🇩🇪V2 29",
-        "AM26-RG🇦🇲V2 30",
-        "CA-RG178🇨🇦V2 31",
-        "DE23-RG🇩🇪V2 32",
-        "GE-RG🇬🇪V2 33",
-        "IN-RG🇮🇳V2 34",
-        "ITALY-RG🇮🇹V2 35",
-        "TR2-RG🇹🇷V2 36",
-        "TR3-RG🇹🇷V2 37",
-        "UK2-RG🇬🇧V2 38",
-        "US-R1🇺🇸V2 39",
-        "US-R214-C🇺🇸V2 40",
-        "US-RG145-H🇺🇸V2 41",
-        "US-RG53-P🇺🇸V2 42",
-        "AZ-RG🇦🇿V2 43",
-        "AZ-TN🇦🇿V2 44",
-        "BH-R🇧🇭V2 45",
-        "UK3-R🇬🇧V2 46",
-        "UK3-RG🇬🇧V2 47",
-        "AE-RG🇦🇪V2 48",
-        "AE-R🇦🇪V2 49",
-        "AM-RG🇦🇲V2 50",
-        "Germany-TN🇩🇪V2 51",
-        "AM-R🇦🇲V2 52",
-        "IRAQ-RG🇮🇶V2 53",
-        "FR-R🇫🇷V2 54",
-        "FR-RG🇫🇷V2 55",
-        "GE-GW🇬🇪V2 56",
-        "DE23-GW🇩🇪V2 57",
-        "UK2-GW🇬🇧V2 58",
-        "TR3-GW🇹🇷V2 59",
-        "TR2-GW🇹🇷V2 60",
-        "AM26-GW🇦🇲V2 61",
-        "BH2-T🇧🇭V2 62",
-        "BH2-R🇧🇭V2 63",
-        "BH2-GW🇧🇭V2 64",
-        "Singapore-T🇸🇬V2 65",
-        "Singapore-RG🇸🇬V2 66",
-        "Singapore-GW🇸🇬V2 67"
+        "UK-TN🇬🇧V2 2",
+        "Canada-TN🇨🇦V2 3",
+        "AE-RG🇦🇪V2 4",
+        "US1-T🇺🇸V2 5",
+        "DK🇩🇰-RG-V2 6",
+        "IN-RG🇮🇳V2 7",
+        "US-R1🇺🇸V2 8",
+        "US-R214-C🇺🇸V2 9",
+        "US-RG145-H🇺🇸V2 10",
+        "US-RG53-P🇺🇸V2 11",
+        "US-TN145-H🇺🇸V2 12",
+        "US-TN214-C🇺🇸V2 13",
+        "US-TN4🇺🇸V2 14",
+        "US-TN53-P🇺🇸V2 15",
+        "US-TUN🇺🇸V2 16",
+        "UK3-R🇬🇧V2 17",
+        "UK3-RG🇬🇧V2 18",
+        "TR4-T🇹🇷V2 19",
+        "AU-TN🇦🇺V2 20",
+        "TR3-RG🇹🇷V2 21",
+        "TR2-RG🇹🇷V2 22",
+        "BH-R🇧🇭V2 23",
+        "DE23-SG🇩🇪V2 24",
+        "AM26-TUN🇦🇲V2 25",
+        "AM-TUN🇦🇲V2 26",
+        "BH-T🇧🇭V2 27",
+        "DE23-ST🇩🇪V2 28",
+        "TR4-RG🇹🇷V2 29",
+        "Sweden-R🇸🇪V2 30",
+        "CA-TN178🇨🇦V2 31",
+        "DK-TN🇩🇰V2 32",
+        "GE-TN🇬🇪V2 33",
+        "IN-TN🇮🇳V2 34",
+        "IRAQ-TN🇮🇶V2 35",
+        "ITALY-TN🇮🇹V2 36",
+        "NL-TN🇳🇱V2 37",
+        "Oman-TN🇴🇲V2 38",
+        "Pakistan-TN🇵🇰V2 39",
+        "Swiss-TUN🇨🇭V2 40",
+        "TR2-TN🇹🇷V2 41",
+        "TR3-TN🇹🇷V2 42",
+        "TR-TUN🇹🇷V2 43",
+        "ITALY-RG🇮🇹V2 44",
+        "TR5-T🇹🇷V2 45",
+        "AE-R🇦🇪V2 46",
+        "AM26-RG🇦🇲V2 47",
+        "FR-TN🇫🇷V2 48",
+        "AM-RG🇦🇲V2 49",
+        "CA-RG178🇨🇦V2 50",
+        "AZ-RG🇦🇿V2 51",
+        "AZ-TN🇦🇿V2 52",
+        "DE23-RG🇩🇪V2 53",
+        "DE23-TN🇩🇪V2 54",
+        "GE-RG🇬🇪V2 55",
+        "TR6-T🇹🇷V2 56",
+        "BH2-T🇧🇭V2 57",
+        "FR-R🇫🇷V2 58",
+        "IRAQ-RG🇮🇶V2 59",
+        "Singapore-T🇸🇬V2 60",
+        "TR6-SG🇹🇷V2 61",
+        "TR5-RG🇹🇷V2 62"
       ],
       "url": "http://cp.cloudflare.com",
       "interval": "10m0s",
@@ -577,16 +558,16 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇩🇪 GERMANY-9 cmemv31dt02m3cc3suplym3hx",
+      "tag": "🇹🇷 TURKEY-RES3 cmhmh6kgo0000rsigusmz62ip",
       "connect_timeout": "4s",
       "domain_strategy": "prefer_ipv4",
-      "server": "de230obf.gozarfile.com",
+      "server": "trres3.irketaab.com",
       "server_port": 8443,
       "obfs": {
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -594,16 +575,16 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇺🇸 USA-Res3 cmae7ooed0019fddvo7sskhcc",
+      "tag": "🇹🇷 Turkey-RES4 cmhtn4ic8007212hxhqkp821s",
       "connect_timeout": "4s",
       "domain_strategy": "prefer_ipv4",
-      "server": "usresidential1.gozarfile.com",
+      "server": "tr73-new.ipgozarz.com",
       "server_port": 8443,
       "obfs": {
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -611,16 +592,16 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇬🇧 UnitedKigndom 2 cmb3ujoy200xa72oz69d47qjs",
+      "tag": "🇫🇷France-6 cmi9hjgz60000le1pkdha4ye4",
       "connect_timeout": "4s",
       "domain_strategy": "prefer_ipv4",
-      "server": "gb3obfs.gozarfile.com",
+      "server": "deco.ketaab.info",
       "server_port": 8443,
       "obfs": {
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -628,16 +609,16 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇴🇲 Oman cme10m5lw00vs11t58pxoirev",
+      "tag": "🇧🇷 Brazil cmidnjblc000013of4r0cpgf0",
       "connect_timeout": "4s",
       "domain_strategy": "prefer_ipv4",
-      "server": "muscat.gozarfile.com",
+      "server": "br-obf1.ketaab-forosh.com",
       "server_port": 8443,
       "obfs": {
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -645,16 +626,16 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇷🇺 Russia cmbct3mt100y5d34rq8k652qn",
+      "tag": "🇹🇷 TURKEY-RES-8 cmgls6hxf000ek8y9vr9m4f1h",
       "connect_timeout": "4s",
       "domain_strategy": "prefer_ipv4",
-      "server": "rus1.gozarfile.com",
+      "server": "tr254-new.gozarfile.com",
       "server_port": 8443,
       "obfs": {
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -662,16 +643,84 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇺🇸 US-RES4 cme1uosrp033j11t5pb2c6zbc",
+      "tag": "🇦🇿 Azerbaijan cmhhy5i7a01533qovg2b4loih",
       "connect_timeout": "4s",
       "domain_strategy": "prefer_ipv4",
-      "server": "us214c.gozarfile.com",
+      "server": "azobfs2.gozarfile.com",
       "server_port": 8443,
       "obfs": {
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇳🇱 Netherlands 2 cmjeiac9k0000oca7q598y31o",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "nl58ob.gozarfile.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇯🇵 Japan cmjiecw8500m2s1w4fqutyujx",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "jp2.irketaab.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇮🇪 Ireland cmidopmcq0001wmwrkzt0waue",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "ie2.gozarfile.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇨🇭 Swiss 2 cmjkkx0qb0060exm24z160itk",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "ch12ob.irketaab.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -688,58 +737,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇹🇷 TURKEY-Res2 cmeer3npu017lcc3syu4qgaym",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "tr-owl1.ketaab-forosh.com",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "ipgozarenc"
-      },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇳🇱 Netherlands ||| cmb3ufhke00os72ozqe6wwf84",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "newnlreal1.ipgozarz.com",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "ipgozarenc"
-      },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇦🇹 Austria || cmb441qkm00053sr1epn3lsue",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "at-ob.gozarfile.com",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "ipgozarenc"
-      },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -756,320 +754,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇫🇷France-8 cmcnganoe00kjacxwop81umf7",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "de3co.ketaab.info",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "ipgozarenc"
-      },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇳🇴 Norway 2 cmbdzvocd01ktd34rs65hvor6",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "no2obfs.gozarfile.com",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "ipgozarenc"
-      },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇫🇷France-6 cmclz0r4a0000acxwk7rc00zc",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "deco.ketaab.info",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "ipgozarenc"
-      },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "🇦🇲 ArmeniaCLOUD-Res 0 cmcbyv4fu00ukhsln5gqh1dz4",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "am1x.ketaab-forosh.com",
-      "server_port": 8079,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "security": "auto",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "http",
-        "host": "$fakeDomain$",
-        "path": "/tus",
-        "method": "PATCH"
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇳🇱 Netherlands cmeopdtlb03dhcc3s3mbkzuhb",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "nl214ob.irketaab.com",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "ipgozarenc"
-      },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇬🇪 Georgia-Res cmd5rn43w04rkacxwdxulciqy",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "georgia1obs.gozarfile.com",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "ipgozarenc"
-      },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇬🇧 UK cmeoptr0z03sicc3sw2p0t4q7",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "gb58ob.gozarfile.com",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "ipgozarenc"
-      },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇩🇪 N-Germany 5 0 cmauy7iph00f6s9x0dt8fu5vb",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "de-con-1.gozarfile.com",
-      "server_port": 8443,
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇨🇦 Canada2 cmbfjusl302dod34r9f7gvjfk",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "canada2obf.gozarfile.com",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "ipgozarenc"
-      },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇧🇷 Brazil-Res cmepm9lzz04d2cc3s2t5257by",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "br-obf1.ketaab-forosh.com",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "ipgozarenc"
-      },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇴🇲 Oman 2 cmfc9yfe006m6cc3s7wcb5ubg",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "oman2.irketaab.com",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "ipgozarenc"
-      },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇮🇸 Iceland cmarb37mo00ftuzi2ityexbsb",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "hk1-obf.gozarfile.com",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "ipgozarenc"
-      },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇲🇾 Malaysia cme1127et01sm11t57gu2faff",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "smmy.gozarfile.com",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "ipgozarenc"
-      },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇦🇪 Emirates-RES1 cm9se07kf00zbtmjumtsp9uby",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "ae-obf-z1.irketaab.com",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "ipgozarenc"
-      },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇨🇭 Swiss cmbtwbb2n01r9jivjydqnxajb",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "smch2.irketaab.com",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "ipgozarenc"
-      },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇦🇲 Armenia2-Res 0 clu2vbo4r05a28i4lhrqtddlo",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "smam3.irketaab.com",
-      "server_port": 8443,
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇹🇷 Turkey-NEW2 cmajysvqq00at1220zwb4zz75",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "trnewpq.ketaab-forosh.com",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "ipgozarenc"
-      },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇧🇭 Bahrain-RES1 cmaurke9p002gs9x0idw2lcdj",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "bh-obf-z1.irketaab.com",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "ipgozarenc"
-      },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇩🇪 Germany-Res cmccy5izd0000m3bg9fst34uw",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "deres1.gozarfile.com",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "ipgozarenc"
-      },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1086,7 +771,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1094,261 +779,16 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇵🇭 Philippine cmebpk0a600bwcc3sidhi4prj",
+      "tag": "🇺🇸 USA-Res3 cmae7ooed0019fddvo7sskhcc",
       "connect_timeout": "4s",
       "domain_strategy": "prefer_ipv4",
-      "server": "philp.gozarfile.com",
+      "server": "usresidential1.gozarfile.com",
       "server_port": 8443,
       "obfs": {
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇺🇸 USA-RES2 cmalfcvtv0000vp6vh9pmdcw5",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "usres1.ketaab-forosh.com",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "ipgozarenc"
-      },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇦🇿 Azerbaijan 2 cmekb0rpj01xbcc3sh8q22734",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "az2f.ketaab-forosh.com",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "ipgozarenc"
-      },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇫🇷France-7 cmcn8v5je00b7acxwx3qgrtdi",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "de2co.ketaab.info",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "ipgozarenc"
-      },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇩🇪 GERMANY-10 cmenntgkk0326cc3sznj35667",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "de230obf2.gozarfile.com",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "ipgozarenc"
-      },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇩🇪 N-Germany 4 cmb455d7f00rz3sr1964r9e7u",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "n-desin2.gozarfile.com",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "ipgozarenc"
-      },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-    {
-      "type": "tuic",
-      "tag": "🇫🇮 Finland 0 clu6z79q8010nwkalcbco59pk",
-      "server": "smfi.irketaab.com",
-      "server_port": 8400,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "congestion_control": "bbr",
-      "tls": {
-        "enabled": true,
-        "server_name": "smfi.irketaab.com"
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇫🇮 Finland 1 clu6z79q8010nwkalcbco59pk",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "smfi.irketaab.com",
-      "server_port": 8443,
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇭🇰 HongKong cmarba7if00mjuzi2cfi6rj8g",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "hk2-obf.gozarfile.com",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "ipgozarenc"
-      },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇩🇪 N-Germany O-2 cmbcdzmtu00l2d34rba1qktpe",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "n-de2ob2.irketaab.com",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "ipgozarenc"
-      },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇺🇦 Ukraine 2 cmbe00i6001t7d34rl53n5fk5",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "Ukraine2obfs.gozarfile.com",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "ipgozarenc"
-      },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇹🇷 Turkey-RES cmd75mhoy055cacxwwz5jyldr",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "trresob.gozarfile.com",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "ipgozarenc"
-      },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇨🇭 Swiss 2 cmeophd4o03hncc3s28af03dw",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "ch12ob.irketaab.com",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "ipgozarenc"
-      },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇮🇳 India cmambe4x60064kfersi5zw49t",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "obf1in.gozarfile.com",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "ipgozarenc"
-      },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇨🇦Canada3 cmeopyvha03yccc3s2hq16sds",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "ca242ob.gozarfile.com",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "ipgozarenc"
-      },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇩🇪 GERMANY-RES3 cmbrlu4l4009eaxsdgoc34b02",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "deresnew3.ketaab-forosh.com",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "ipgozarenc"
-      },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1365,7 +805,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1373,16 +813,16 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇩🇰 Denmark-RES cmbgevbf302med34rsfittxep",
+      "tag": "🇩🇪 Germany cmgidjv6x00u0x78g39kz7hab",
       "connect_timeout": "4s",
       "domain_strategy": "prefer_ipv4",
-      "server": "dkreal.ketaab-forosh.com",
+      "server": "smobfsde1.ketaab-forosh.com",
       "server_port": 8443,
       "obfs": {
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1390,16 +830,16 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇸🇬 Singapore cmf50x8j205tycc3skiiexdu6",
+      "tag": "🇺🇦 Ukraine 2 cmibb2yzs0094le1psabhy5m3",
       "connect_timeout": "4s",
       "domain_strategy": "prefer_ipv4",
-      "server": "singapore84.gozarfile.com",
+      "server": "Ukraine2obfs.gozarfile.com",
       "server_port": 8443,
       "obfs": {
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1407,16 +847,16 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇴🇲 Oman 3 cmfca81rm06x3cc3s2bawgzq2",
+      "tag": "🇹🇷 Turkey-RES cmd75mhoy055cacxwwz5jyldr",
       "connect_timeout": "4s",
       "domain_strategy": "prefer_ipv4",
-      "server": "oman3.irketaab.com",
+      "server": "trresob.gozarfile.com",
       "server_port": 8443,
       "obfs": {
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1424,16 +864,16 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇫🇷 France 3 cmdnbb1af091hacxw0ddvag1y",
+      "tag": "🇹🇷 TURKEY-Res2 cmeer3npu017lcc3syu4qgaym",
       "connect_timeout": "4s",
       "domain_strategy": "prefer_ipv4",
-      "server": "fi2obfs2.irketaab.com",
+      "server": "tr-owl1.ketaab-forosh.com",
       "server_port": 8443,
       "obfs": {
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1441,16 +881,16 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇩🇪 N-Germany 2 cmdyy6bc600fp11t5iovnbz3w",
+      "tag": "🇬🇧 UK cmeoptr0z03sicc3sw2p0t4q7",
       "connect_timeout": "4s",
       "domain_strategy": "prefer_ipv4",
-      "server": "r-de2.irketaab.com",
+      "server": "gb58ob.gozarfile.com",
       "server_port": 8443,
       "obfs": {
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1467,7 +907,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1475,16 +915,50 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇮🇶 IRAQ cme1176qp023o11t5ihe6q6wv",
+      "tag": "🇦🇲 Armenia6-RES cmed27yu000tocc3sb5j87k59",
       "connect_timeout": "4s",
       "domain_strategy": "prefer_ipv4",
-      "server": "baghdad.gozarfile.com",
+      "server": "am6o.gozarfile.com",
       "server_port": 8443,
       "obfs": {
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "vmess",
+      "tag": "🇦🇲 ArmeniaCLOUD-Res 0 cmcbyv4fu00ukhsln5gqh1dz4",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "am1x.ketaab-forosh.com",
+      "server_port": 8079,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "security": "auto",
+      "packet_encoding": "xudp",
+      "transport": {
+        "type": "http",
+        "host": "$fakeDomain$",
+        "path": "/tus",
+        "method": "PATCH"
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇰🇿 Kazakhstan cmhm2egcj00bpijw101v10r0j",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "kz2obf.gozarfile.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1492,16 +966,108 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇩🇪 Germany cm823sni10000q8s491fpqs6k",
+      "tag": "🇨🇭 Swiss cminnesl300adowk9s3zwiwqu",
       "connect_timeout": "4s",
       "domain_strategy": "prefer_ipv4",
-      "server": "smobfsde1.ketaab-forosh.com",
+      "server": "smch2.irketaab.com",
       "server_port": 8443,
       "obfs": {
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇹🇷 Turkey-RES-6 cmjd99xbt0000908yt021602a",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "tr208-new.ipgozarz.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇳🇱 Netherlands cmjej7a5k0016oca7hgqxn72h",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "nl214ob.irketaab.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇦🇪 Emirates-RES2 cmjkjco8f00zis1w4u21r7yd1",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "ae-obf-z2.irketaab.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "tuic",
+      "tag": "🇫🇮 Finland 0 clu6z79q8010nwkalcbco59pk",
+      "server": "smfi.irketaab.com",
+      "server_port": 8400,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "congestion_control": "bbr",
+      "tls": {
+        "enabled": true,
+        "server_name": "smfi.irketaab.com"
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇫🇮 Finland 1 clu6z79q8010nwkalcbco59pk",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "smfi.irketaab.com",
+      "server_port": 8443,
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇺🇸 USA cm7qw0pih01xf3gvxvpi3wluk",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "unitedstates2obfs.gozarfile.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1518,7 +1084,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1526,16 +1092,16 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇦🇪 Emirates-RES2 cm9se7vdb0195tmjuqsclh9f7",
+      "tag": "🇬🇧 UK-6 cmh9mjgt8006p3qovub16be1h",
       "connect_timeout": "4s",
       "domain_strategy": "prefer_ipv4",
-      "server": "ae-obf-z2.irketaab.com",
+      "server": "ukco.ketaab.info",
       "server_port": 8443,
       "obfs": {
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1543,7 +1109,41 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇦🇪 Emirates 4 cmawsm5dt000a14nyc8hi3y6t",
+      "tag": "🇹🇷 Turkey-RES-11 cmj70xnp101aj2l9abhvm22wq",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "tr49-new.gozarfile.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇦🇺 Australia cmjeh6bgy006y908y2jb79vun",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "au2obfs.gozarfile.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇦🇪 Emirates 4 cmi3nnvl600lzrek0iyg0zuah",
       "connect_timeout": "4s",
       "domain_strategy": "prefer_ipv4",
       "server": "ae2obfs2.irketaab.com",
@@ -1552,7 +1152,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1560,16 +1160,16 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇺🇸 USA cm7qw0pih01xf3gvxvpi3wluk",
+      "tag": "🇹🇷 Turkey-RES-10 cmgmbjo8i008z12hqyb4du2c2",
       "connect_timeout": "4s",
       "domain_strategy": "prefer_ipv4",
-      "server": "unitedstates2obfs.gozarfile.com",
+      "server": "tr198-new.irketaab.com",
       "server_port": 8443,
       "obfs": {
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1577,74 +1177,16 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇫🇷 France 2 0 cm9vvr19b005a7qp29lk6p11o",
+      "tag": "🇹🇷 TURKEY-RES-9 cmh0m00cu01cm103f9b0gom2u",
       "connect_timeout": "4s",
       "domain_strategy": "prefer_ipv4",
-      "server": "smfr4.irketaab.com",
-      "server_port": 8443,
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true
-      }
-    },
-    {
-      "type": "tuic",
-      "tag": "🇫🇷 France 2 1 cm9vvr19b005a7qp29lk6p11o",
-      "server": "smfr4.irketaab.com",
-      "server_port": 8400,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "congestion_control": "bbr",
-      "tls": {
-        "enabled": true,
-        "server_name": "smfr4.irketaab.com"
-      }
-    },
-    {
-      "type": "vmess",
-      "tag": "🇩🇰 Cloud-Denmark 0 cmbzlcrdo00ckkq0ozqve2phr",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "dkv.irketaab.com",
-      "server_port": 8079,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "security": "auto",
-      "packet_encoding": "xudp",
-      "transport": {
-        "type": "http",
-        "host": "$fakeDomain$",
-        "path": "/tus",
-        "method": "PATCH"
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇦🇲 Armenia6-RES cmed27yu000tocc3sb5j87k59",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "am6o.gozarfile.com",
+      "server": "tr135-new.gozarfile.com",
       "server_port": 8443,
       "obfs": {
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇩🇪 Germany 3 cmem8qfrz02cbcc3s8ncgtdie",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "ger2obf.ketaab-forosh.com",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "ipgozarenc"
-      },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1661,7 +1203,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1669,16 +1211,16 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇹🇷 Turkey - NEW 1 cmf53mofo05y0cc3s4wtsroar",
+      "tag": "🇺🇸 USA-RES2 cmalfcvtv0000vp6vh9pmdcw5",
       "connect_timeout": "4s",
       "domain_strategy": "prefer_ipv4",
-      "server": "tr-obfs-22.ketaab-forosh.com",
+      "server": "usres1.ketaab-forosh.com",
       "server_port": 8443,
       "obfs": {
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1686,40 +1228,74 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇦🇹 Austria 0 cmbuhhud20271jivjz1xahseg",
+      "tag": "🇭🇰 HongKong cmibbgo7900l5le1prf56u7ik",
       "connect_timeout": "4s",
       "domain_strategy": "prefer_ipv4",
-      "server": "smat.irketaab.com",
+      "server": "hk1-obf.gozarfile.com",
       "server_port": 8443,
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇦🇿 Azerbaijan 2 cmiqcs4tj00ksowk9e2i12duk",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "az2f.ketaab-forosh.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇩🇪 Germany 2 0 cmjkm9lni00hwexm2hq4x77r4",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "smde4.irketaab.com",
+      "server_port": 8443,
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
       "tls": {
         "enabled": true
       }
     },
     {
       "type": "tuic",
-      "tag": "🇦🇹 Austria 1 cmbuhhud20271jivjz1xahseg",
-      "server": "smat.irketaab.com",
+      "tag": "🇩🇪 Germany 2 1 cmjkm9lni00hwexm2hq4x77r4",
+      "server": "smde4.irketaab.com",
       "server_port": 8400,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
       "congestion_control": "bbr",
       "tls": {
         "enabled": true,
-        "server_name": "smat.irketaab.com"
+        "server_name": "smde4.irketaab.com"
       }
     },
     {
       "type": "hysteria2",
-      "tag": "🇦🇿 Azerbaijan cme0hqruy00o411t5u01t5pqt",
+      "tag": "🇮🇳 India cmambe4x60064kfersi5zw49t",
       "connect_timeout": "4s",
       "domain_strategy": "prefer_ipv4",
-      "server": "azobfs2.gozarfile.com",
+      "server": "obf1in.gozarfile.com",
       "server_port": 8443,
       "obfs": {
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1727,16 +1303,16 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇩🇪 GERMANY-RES4 cmeojlmyg038acc3se15mnvhg",
+      "tag": "🇧🇭 Bahrain-RES1 cmaurke9p002gs9x0idw2lcdj",
       "connect_timeout": "4s",
       "domain_strategy": "prefer_ipv4",
-      "server": "de4res.ketaab-forosh.com",
+      "server": "bh-obf-z1.irketaab.com",
       "server_port": 8443,
       "obfs": {
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1744,50 +1320,28 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇳🇱 Netherlands 2 cmeoppppk03mzcc3s6rnwvkf5",
+      "tag": "🇩🇪 N-Germany 5 0 cmauy7iph00f6s9x0dt8fu5vb",
       "connect_timeout": "4s",
       "domain_strategy": "prefer_ipv4",
-      "server": "nl58ob.gozarfile.com",
+      "server": "de-con-1.gozarfile.com",
       "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "ipgozarenc"
-      },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
       "tls": {
-        "enabled": true,
-        "insecure": true
+        "enabled": true
       }
     },
     {
       "type": "hysteria2",
-      "tag": "🇫🇮 Finland 2 cmb44dsna00ca3sr1qvjrzc3e",
+      "tag": "🇩🇪 Germany-RES2 cm9uemncl00geqs6ve1utko7h",
       "connect_timeout": "4s",
       "domain_strategy": "prefer_ipv4",
-      "server": "fi3obfs3.irketaab.com",
+      "server": "denew1ob.irketaab.com",
       "server_port": 8443,
       "obfs": {
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇬🇧 UK-6 cmcng4pj300gvacxwsyva3hgw",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "ukco.ketaab.info",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "ipgozarenc"
-      },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1804,150 +1358,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇮🇪 Ireland cmbdzosmb01dqd34re3a8hh8u",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "ie2.gozarfile.com",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "ipgozarenc"
-      },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇦🇪 Emirates-Dubai cmfe4rxvb07cmcc3svc9eqrzw",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "ae58obf.gozarfile.com",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "ipgozarenc"
-      },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇰🇿 Kazakhstan cmbe0adc90202d34r1tv6rvwt",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "kz2obf.gozarfile.com",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "ipgozarenc"
-      },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇩🇪 Germany 2 0 cm9vvx7kv00gn7qp2yiw2acq1",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "smde4.irketaab.com",
-      "server_port": 8443,
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true
-      }
-    },
-    {
-      "type": "tuic",
-      "tag": "🇩🇪 Germany 2 1 cm9vvx7kv00gn7qp2yiw2acq1",
-      "server": "smde4.irketaab.com",
-      "server_port": 8400,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "congestion_control": "bbr",
-      "tls": {
-        "enabled": true,
-        "server_name": "smde4.irketaab.com"
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇩🇰 Denmark2-RES cmbgfn54j02v7d34rfhwyk0w0",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "dkreal2.gozarfile.com",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "ipgozarenc"
-      },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇵🇰 Pakistan cme11azm502em11t5rjzyk35u",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "pakistan.gozarfile.com",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "ipgozarenc"
-      },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇩🇪 Germany-RES2 cm9uemncl00geqs6ve1utko7h",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "denew1ob.irketaab.com",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "ipgozarenc"
-      },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇦🇺 Australia cmauxdxyr00e1s9x02vbq9wy6",
-      "connect_timeout": "4s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "au2obfs.gozarfile.com",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "ipgozarenc"
-      },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1964,7 +1375,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1972,7 +1383,591 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇹🇷 TURKEY-Res1 cmagi1wk9000pmjoudn6tgyjn",
+      "tag": "🇬🇧 UnitedKigndom 2 cmb3ujoy200xa72oz69d47qjs",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "gb3obfs.gozarfile.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇦🇹 Austria || cmb441qkm00053sr1epn3lsue",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "at-ob.gozarfile.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇫🇮 Finland 2 cmb44dsna00ca3sr1qvjrzc3e",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "fi3obfs3.irketaab.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇩🇪 N-Germany 4 cmb455d7f00rz3sr1964r9e7u",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "n-desin2.gozarfile.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇩🇪 N-Germany O-2 cmbcdzmtu00l2d34rba1qktpe",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "n-de2ob2.irketaab.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇨🇦 Canada2 cmbfjusl302dod34r9f7gvjfk",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "canada2obf.gozarfile.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇫🇷 France 2 0 cmjko4hef00nwexm2lxhp932a",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "smfr4.irketaab.com",
+      "server_port": 8443,
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true
+      }
+    },
+    {
+      "type": "tuic",
+      "tag": "🇫🇷 France 2 1 cmjko4hef00nwexm2lxhp932a",
+      "server": "smfr4.irketaab.com",
+      "server_port": 8400,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "congestion_control": "bbr",
+      "tls": {
+        "enabled": true,
+        "server_name": "smfr4.irketaab.com"
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇩🇪 GERMANY-RES3 cmbrlu4l4009eaxsdgoc34b02",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "deresnew3.ketaab-forosh.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇩🇪 Germany-Res cmccy5izd0000m3bg9fst34uw",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "deres1.gozarfile.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇺🇸 USA_RES cmi5054jm00yhrek0qm8rmjgg",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "us113res.gozarfile.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇫🇷France-8 cmcnganoe00kjacxwop81umf7",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "de3co.ketaab.info",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇬🇪 Georgia-Res cmd5rn43w04rkacxwdxulciqy",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "georgia1obs.gozarfile.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇫🇷 France 3 cmdnbb1af091hacxw0ddvag1y",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "fi2obfs2.irketaab.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇩🇪 N-Germany 2 cmdyy6bc600fp11t5iovnbz3w",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "r-de2.irketaab.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇴🇲 Oman cme10m5lw00vs11t58pxoirev",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "muscat.gozarfile.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇲🇾 Malaysia cme1127et01sm11t57gu2faff",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "smmy.gozarfile.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇮🇶 IRAQ cme1176qp023o11t5ihe6q6wv",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "baghdad.gozarfile.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇺🇸 US-RES4 cme1uosrp033j11t5pb2c6zbc",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "us214c.gozarfile.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇵🇭 Philippine cmebpk0a600bwcc3sidhi4prj",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "philp.gozarfile.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇹🇷 Turkey-RES-7 cmij0o9na002qm187z6evnx5a",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "tr247-new.gozarfile.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇹🇷 TURKEY-RES14 cmisnhf2h00ufowk9wazfvbwv",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "dkreal.ketaab-forosh.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇩🇪 Germany 3 cmem8qfrz02cbcc3s8ncgtdie",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "ger2obf.ketaab-forosh.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇩🇪 GERMANY-9 cmemv31dt02m3cc3suplym3hx",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "de230obf.gozarfile.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇩🇪 GERMANY-10 cmenntgkk0326cc3sznj35667",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "de230obf2.gozarfile.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇩🇪 GERMANY-RES4 cmeojlmyg038acc3se15mnvhg",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "de4res.ketaab-forosh.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇹🇷 TURKEY-RES-13 cmj90l8tu01nk2l9aqag4jdi4",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "tr52-new.gozarfile.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇵🇰 Pakistan cmjehi8w000b0908yv5oimyug",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "pakistan.gozarfile.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "🇺🇸 Cloud-USA 0 cmjekwpsi0000s1w4q7m0z2qe",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "dkv.irketaab.com",
+      "server_port": 11615,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "transport": {
+        "type": "http",
+        "headers": {
+          "Host": "zula.ir"
+        }
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇨🇦Canada3 cmeopyvha03yccc3s2hq16sds",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "ca242ob.gozarfile.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇸🇬 Singapore cmf50x8j205tycc3skiiexdu6",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "singapore84.gozarfile.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇴🇲 Oman 2 cmfc9yfe006m6cc3s7wcb5ubg",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "oman2.irketaab.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇴🇲 Oman 3 cmfca81rm06x3cc3s2bawgzq2",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "oman3.irketaab.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇹🇷 Turkey-NEW2 cmi9edeyu01nkrek07hjuhnzn",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "trnewpq.ketaab-forosh.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇹🇷 Turkey - NEW 1 cmf53mofo05y0cc3s4wtsroar",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "tr-obfs-22.ketaab-forosh.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇹🇷 TURKEY-Res1 cmh32nap201r0103fh4le4ulg",
       "connect_timeout": "4s",
       "domain_strategy": "prefer_ipv4",
       "server": "hktr.gozarfile.com",
@@ -1981,7 +1976,7 @@
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -1989,16 +1984,67 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇹🇷 TURKEY-RES3 cmb2nhkwx009x72ozjprvwscw",
+      "tag": "🇹🇷 Turkey-RES-5 cmgkjrra701g1x78gdfdgpdos",
       "connect_timeout": "4s",
       "domain_strategy": "prefer_ipv4",
-      "server": "trres3.irketaab.com",
+      "server": "tr244-new.ipgozarz.com",
       "server_port": 8443,
       "obfs": {
         "type": "salamander",
         "password": "ipgozarenc"
       },
-      "password": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e:cmffm1yn407o7cc3s7exg3vkl",
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇹🇷 TURKEY-RES15 cmj95lce601sd2l9a46rbzhjq",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "dkreal2.gozarfile.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇬🇷 Greece cmhgpzl7200ua3qovlm0k5p36",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "greece52.gozarfile.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
+      "tls": {
+        "enabled": true,
+        "insecure": true
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇳🇱 Netherlands ||| cmjff3btm006us1w4cp9bvush",
+      "connect_timeout": "4s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "newnlreal1.ipgozarz.com",
+      "server_port": 8443,
+      "obfs": {
+        "type": "salamander",
+        "password": "ipgozarenc"
+      },
+      "password": "1f4dc521-fca5-4601-a6ac-34176efa945e:cmffm1yn407o7cc3s7exg3vkl",
       "tls": {
         "enabled": true,
         "insecure": true
@@ -2006,16 +2052,16 @@
     },
     {
       "type": "vless",
-      "tag": "US1-T🇺🇸V2 0",
+      "tag": "Sweden-T🇸🇪V2 0",
       "connect_timeout": "5s",
       "domain_strategy": "prefer_ipv4",
-      "server": "moon1.ketaab.info",
-      "server_port": 2096,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
+      "server": "se50ex.ketaab-forosh.com",
+      "server_port": 2087,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
       "transport": {
         "type": "http",
         "headers": {
-          "Host": "aojndw.irancell.ir"
+          "Host": "uptvs.com"
         }
       },
       "packet_encoding": ""
@@ -2027,7 +2073,7 @@
       "domain_strategy": "prefer_ipv4",
       "server": "ae65ex.ketaab-forosh.com",
       "server_port": 2087,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
       "transport": {
         "type": "http",
         "headers": {
@@ -2038,28 +2084,12 @@
     },
     {
       "type": "vless",
-      "tag": "AM-TN🇦🇲V2 2",
+      "tag": "UK-TN🇬🇧V2 2",
       "connect_timeout": "5s",
       "domain_strategy": "prefer_ipv4",
-      "server": "am61ex.ketaab.info",
-      "server_port": 59693,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "transport": {
-        "type": "http",
-        "headers": {
-          "Host": "uptvs.com"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "AU-TN🇦🇺V2 3",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "au41ex.ketaab-forosh.com",
+      "server": "uk58ex.ketaab-forosh.com",
       "server_port": 2096,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
       "transport": {
         "type": "http",
         "headers": {
@@ -2070,12 +2100,12 @@
     },
     {
       "type": "vless",
-      "tag": "Canada-TN🇨🇦V2 4",
+      "tag": "Canada-TN🇨🇦V2 3",
       "connect_timeout": "5s",
       "domain_strategy": "prefer_ipv4",
       "server": "ca59ex.ketaab-forosh.com",
       "server_port": 2096,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
       "transport": {
         "type": "http",
         "headers": {
@@ -2086,12 +2116,57 @@
     },
     {
       "type": "vless",
-      "tag": "DK🇩🇰-RG-V2 5",
+      "tag": "AE-RG🇦🇪V2 4",
+      "connect_timeout": "5s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "ae65ex-r.ketaab-forosh.com",
+      "server_port": 42945,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "tls": {
+        "enabled": true,
+        "server_name": "wikipedia.org",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "Yr3C7Tmp103BDjuF3EBz-ZWDUXjwqvlmN6mKvkQ88Wc",
+          "short_id": "73fc98a7"
+        }
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "wikipedia.org",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "US1-T🇺🇸V2 5",
+      "connect_timeout": "5s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "moon1.ketaab.info",
+      "server_port": 2096,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "transport": {
+        "type": "http",
+        "headers": {
+          "Host": "aojndw.irancell.ir"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "DK🇩🇰-RG-V2 6",
       "connect_timeout": "5s",
       "domain_strategy": "prefer_ipv4",
       "server": "dk220exf-r.ketaab-forosh.com",
       "server_port": 59610,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
       "tls": {
         "enabled": true,
         "server_name": "tgju.org",
@@ -2115,512 +2190,12 @@
     },
     {
       "type": "vless",
-      "tag": "BH-T🇧🇭V2 6",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "bh14ex.ketaab-forosh.com",
-      "server_port": 2087,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "transport": {
-        "type": "http",
-        "headers": {
-          "Host": "uptvs.com"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "DK-TN🇩🇰V2 7",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "dk220exf.ketaab-forosh.com",
-      "server_port": 2090,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "transport": {
-        "type": "http",
-        "headers": {
-          "Host": "uptvs.com"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "US-TN145-H🇺🇸V2 8",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "ex154us.ketaab-forosh.com",
-      "server_port": 2096,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "transport": {
-        "type": "http",
-        "headers": {
-          "Host": "uptvs.com"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "CA-TN178🇨🇦V2 9",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "ex178ca.ketaab-forosh.com",
-      "server_port": 2096,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "transport": {
-        "type": "http",
-        "headers": {
-          "Host": "uptvs.com"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "ITALY-TN🇮🇹V2 10",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "ex189it.ketaab-forosh.com",
-      "server_port": 2096,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "transport": {
-        "type": "http",
-        "headers": {
-          "Host": "uptvs.com"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "IRAQ-TN🇮🇶V2 11",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "iq85ex.ketaab-forosh.com",
-      "server_port": 2096,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "transport": {
-        "type": "http",
-        "headers": {
-          "Host": "uptvs.com"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "AM-TUN🇦🇲V2 12",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "ir-am61ex.ketaab-forosh.com",
-      "server_port": 2087,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "transport": {
-        "type": "http",
-        "headers": {
-          "Host": "djh.irancell.ir"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "Swiss-TUN🇨🇭V2 13",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "ir-ch62ex.ketaab-forosh.com",
-      "server_port": 2087,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "transport": {
-        "type": "http",
-        "headers": {
-          "Host": "uptvs.com"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "TR-TUN🇹🇷V2 14",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "ir-tr65exf.ketaab-forosh.com",
-      "server_port": 2087,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "transport": {
-        "type": "http",
-        "headers": {
-          "Host": "charge.irancell.ir"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "US-TUN🇺🇸V2 15",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "ir-us178exf.ketaab-forosh.com",
-      "server_port": 2087,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "transport": {
-        "type": "http",
-        "headers": {
-          "Host": "uptvs.com"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "NL-TN🇳🇱V2 16",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "nl58ex.ketaab-forosh.com",
-      "server_port": 2096,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "transport": {
-        "type": "http",
-        "headers": {
-          "Host": "uptvs.com"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "Oman-TN🇴🇲V2 17",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "om72ex.ketaab-forosh.com",
-      "server_port": 2096,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "transport": {
-        "type": "http",
-        "headers": {
-          "Host": "uptvs.com"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "Pakistan-TN🇵🇰V2 18",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "pk202exf.ketaab-forosh.com",
-      "server_port": 2096,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "transport": {
-        "type": "http",
-        "headers": {
-          "Host": "uptvs.com"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "UK-TN🇬🇧V2 19",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "uk58ex.ketaab-forosh.com",
-      "server_port": 2096,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "transport": {
-        "type": "http",
-        "headers": {
-          "Host": "uptvs.com"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "US-TN4🇺🇸V2 20",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "us20ex.ketaab-forosh.com",
-      "server_port": 2096,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "transport": {
-        "type": "http",
-        "headers": {
-          "Host": "uptvs.com"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "US-TN214-C🇺🇸V2 21",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "us214ex.ketaab-forosh.com",
-      "server_port": 2096,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "transport": {
-        "type": "http",
-        "headers": {
-          "Host": "uptvs.com"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "US-TN53-P🇺🇸V2 22",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "us53ex.ketaab-forosh.com",
-      "server_port": 2096,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "transport": {
-        "type": "http",
-        "headers": {
-          "Host": "uptvs.com"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "AM26-TUN🇦🇲V2 23",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "am26ex.ketaab-forosh.com",
-      "server_port": 2087,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "transport": {
-        "type": "http",
-        "headers": {
-          "Host": "uptvs.com"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "TR2-TN🇹🇷V2 24",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "tr23ex.irketaab.com",
-      "server_port": 2087,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "transport": {
-        "type": "http",
-        "headers": {
-          "Host": "uptvs.com"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "GE-TN🇬🇪V2 25",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "ge42ex.ketaab-forosh.com",
-      "server_port": 2087,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "transport": {
-        "type": "http",
-        "headers": {
-          "Host": "uptvs.com"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "IN-TN🇮🇳V2 26",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "in41ex.ketaab-forosh.com",
-      "server_port": 2087,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "transport": {
-        "type": "http",
-        "headers": {
-          "Host": "uptvs.com"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "TR3-TN🇹🇷V2 27",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "tr45ex.irketaab.com",
-      "server_port": 2087,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "transport": {
-        "type": "http",
-        "headers": {
-          "Host": "uptvs.com"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "UK2-TN🇬🇧V2 28",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "uk94ex.ketaab-forosh.com",
-      "server_port": 2087,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "transport": {
-        "type": "http",
-        "headers": {
-          "Host": "uptvs.com"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "DE23-TN🇩🇪V2 29",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "de23ex.ketaab-forosh.com",
-      "server_port": 2087,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "transport": {
-        "type": "http",
-        "headers": {
-          "Host": "uptvs.com"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "AM26-RG🇦🇲V2 30",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "am26ex-r.ketaab-forosh.com",
-      "server_port": 43101,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "tls": {
-        "enabled": true,
-        "server_name": "tgju.org",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "TlyDVEIir66HiGxv5W4JqkwbWFl4F_CLYIJRzroItzI",
-          "short_id": "90"
-        }
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": "tgju.org",
-        "idle_timeout": "15s",
-        "ping_timeout": "15s"
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "CA-RG178🇨🇦V2 31",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "ex178ca-r.ketaab-forosh.com",
-      "server_port": 59610,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "tls": {
-        "enabled": true,
-        "server_name": "tgju.org",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "ACvCHOGqMsVE7gux7kxVuxK2h7oCze7KM01Ca9Ap6nM",
-          "short_id": "31"
-        }
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": "digikala.ir",
-        "idle_timeout": "15s",
-        "ping_timeout": "15s"
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "DE23-RG🇩🇪V2 32",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "de23ex-r.ketaab-forosh.com",
-      "server_port": 43101,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "tls": {
-        "enabled": true,
-        "server_name": "tgju.org",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "TlyDVEIir66HiGxv5W4JqkwbWFl4F_CLYIJRzroItzI",
-          "short_id": "90"
-        }
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": "tgju.org",
-        "idle_timeout": "15s",
-        "ping_timeout": "15s"
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "GE-RG🇬🇪V2 33",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "ge42ex-r.ketaab-forosh.com",
-      "server_port": 43101,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "tls": {
-        "enabled": true,
-        "server_name": "tgju.org",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "TlyDVEIir66HiGxv5W4JqkwbWFl4F_CLYIJRzroItzI",
-          "short_id": "90"
-        }
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": "tgju.org",
-        "idle_timeout": "15s",
-        "ping_timeout": "15s"
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "IN-RG🇮🇳V2 34",
+      "tag": "IN-RG🇮🇳V2 7",
       "connect_timeout": "5s",
       "domain_strategy": "prefer_ipv4",
       "server": "in41ex-r.ketaab-forosh.com",
       "server_port": 43101,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
       "tls": {
         "enabled": true,
         "server_name": "tgju.org",
@@ -2644,128 +2219,12 @@
     },
     {
       "type": "vless",
-      "tag": "ITALY-RG🇮🇹V2 35",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "ex189it-r.ketaab-forosh.com",
-      "server_port": 59610,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "tls": {
-        "enabled": true,
-        "server_name": "tgju.org",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "J-p2Ryi5pT4bLxxMKnAPgX5ugGbxFrmwy13c6fhmdlk",
-          "short_id": "31"
-        }
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": "digikala.ir",
-        "idle_timeout": "15s",
-        "ping_timeout": "15s"
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "TR2-RG🇹🇷V2 36",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "tr23ex-r.irketaab.com",
-      "server_port": 43101,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "tls": {
-        "enabled": true,
-        "server_name": "soft98.ir",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "QNjil4KjbsEh6bORTDFQe3ac05KxPjlERYjisfjcsR0",
-          "short_id": "90"
-        }
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": "soft98.ir",
-        "idle_timeout": "15s",
-        "ping_timeout": "15s"
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "TR3-RG🇹🇷V2 37",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "tr45ex-r.irketaab.com",
-      "server_port": 43101,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "tls": {
-        "enabled": true,
-        "server_name": "soft98.ir",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "uzA-QrRUwkt6MOU1mWsKhCIM56aR2woRF-ni2fCPjy8",
-          "short_id": "90"
-        }
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": "soft98.ir",
-        "idle_timeout": "15s",
-        "ping_timeout": "15s"
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "UK2-RG🇬🇧V2 38",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "uk94ex-r.ketaab-forosh.com",
-      "server_port": 43101,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "tls": {
-        "enabled": true,
-        "server_name": "tgju.org",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "TlyDVEIir66HiGxv5W4JqkwbWFl4F_CLYIJRzroItzI",
-          "short_id": "90"
-        }
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": "tgju.org",
-        "idle_timeout": "15s",
-        "ping_timeout": "15s"
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "US-R1🇺🇸V2 39",
+      "tag": "US-R1🇺🇸V2 8",
       "connect_timeout": "5s",
       "domain_strategy": "prefer_ipv4",
       "server": "us154ex-r.ketaab-forosh.com",
       "server_port": 42730,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
       "tls": {
         "enabled": true,
         "server_name": "speedtest.com",
@@ -2783,12 +2242,12 @@
     },
     {
       "type": "vless",
-      "tag": "US-R214-C🇺🇸V2 40",
+      "tag": "US-R214-C🇺🇸V2 9",
       "connect_timeout": "5s",
       "domain_strategy": "prefer_ipv4",
       "server": "us214ex-r.ketaab-forosh.com",
       "server_port": 47200,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
       "tls": {
         "enabled": true,
         "server_name": "soft98.ir",
@@ -2806,12 +2265,12 @@
     },
     {
       "type": "vless",
-      "tag": "US-RG145-H🇺🇸V2 41",
+      "tag": "US-RG145-H🇺🇸V2 10",
       "connect_timeout": "5s",
       "domain_strategy": "prefer_ipv4",
       "server": "ex154us-r.ketaab-forosh.com",
       "server_port": 59610,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
       "tls": {
         "enabled": true,
         "server_name": "tgju.org",
@@ -2835,12 +2294,12 @@
     },
     {
       "type": "vless",
-      "tag": "US-RG53-P🇺🇸V2 42",
+      "tag": "US-RG53-P🇺🇸V2 11",
       "connect_timeout": "5s",
       "domain_strategy": "prefer_ipv4",
       "server": "us53ex-r.ketaab-forosh.com",
       "server_port": 59610,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
       "tls": {
         "enabled": true,
         "server_name": "tgju.org",
@@ -2864,12 +2323,684 @@
     },
     {
       "type": "vless",
-      "tag": "AZ-RG🇦🇿V2 43",
+      "tag": "US-TN145-H🇺🇸V2 12",
       "connect_timeout": "5s",
       "domain_strategy": "prefer_ipv4",
-      "server": "az132ex-r.ketaab-forosh.com",
+      "server": "ex154us.ketaab-forosh.com",
+      "server_port": 2096,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "transport": {
+        "type": "http",
+        "headers": {
+          "Host": "uptvs.com"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "US-TN214-C🇺🇸V2 13",
+      "connect_timeout": "5s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "us214ex.ketaab-forosh.com",
+      "server_port": 2096,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "transport": {
+        "type": "http",
+        "headers": {
+          "Host": "uptvs.com"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "US-TN4🇺🇸V2 14",
+      "connect_timeout": "5s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "us20ex.ketaab-forosh.com",
+      "server_port": 2096,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "transport": {
+        "type": "http",
+        "headers": {
+          "Host": "uptvs.com"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "US-TN53-P🇺🇸V2 15",
+      "connect_timeout": "5s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "us53ex.ketaab-forosh.com",
+      "server_port": 2096,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "transport": {
+        "type": "http",
+        "headers": {
+          "Host": "uptvs.com"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "US-TUN🇺🇸V2 16",
+      "connect_timeout": "5s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "ir-us178exf.ketaab-forosh.com",
+      "server_port": 2087,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "transport": {
+        "type": "http",
+        "headers": {
+          "Host": "uptvs.com"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "UK3-R🇬🇧V2 17",
+      "connect_timeout": "5s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "uk58ex-r.ketaab-forosh.com",
+      "server_port": 43792,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "tls": {
+        "enabled": true,
+        "server_name": "wikipedia.org",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "mPBDbR5vTHZMUR0zE4EtK1qc2HamnJpo9uhh_gx_cyQ",
+          "short_id": "bfd226858f10"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "UK3-RG🇬🇧V2 18",
+      "connect_timeout": "5s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "uk58ex-r.ketaab-forosh.com",
+      "server_port": 54078,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "tls": {
+        "enabled": true,
+        "server_name": "wikipedia.org",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "mPBDbR5vTHZMUR0zE4EtK1qc2HamnJpo9uhh_gx_cyQ",
+          "short_id": "bfd226858f10"
+        }
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "wikipedia.org",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "TR4-T🇹🇷V2 19",
+      "connect_timeout": "5s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "tr198ex.ketaab-forosh.com",
+      "server_port": 2087,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "transport": {
+        "type": "http",
+        "headers": {
+          "Host": "uptvs.com"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "AU-TN🇦🇺V2 20",
+      "connect_timeout": "5s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "au41ex.ketaab-forosh.com",
+      "server_port": 2096,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "transport": {
+        "type": "http",
+        "headers": {
+          "Host": "uptvs.com"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "TR3-RG🇹🇷V2 21",
+      "connect_timeout": "5s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "tr45ex-r.irketaab.com",
       "server_port": 43101,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "tls": {
+        "enabled": true,
+        "server_name": "google.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "uzA-QrRUwkt6MOU1mWsKhCIM56aR2woRF-ni2fCPjy8",
+          "short_id": "90"
+        }
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "google.com",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "TR2-RG🇹🇷V2 22",
+      "connect_timeout": "5s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "ir-tr65exf-r.ketaab-forosh.com",
+      "server_port": 43101,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "tls": {
+        "enabled": true,
+        "server_name": "google.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "uzA-QrRUwkt6MOU1mWsKhCIM56aR2woRF-ni2fCPjy8",
+          "short_id": "90"
+        }
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "google.com",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "BH-R🇧🇭V2 23",
+      "connect_timeout": "5s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "bh14ex-r.ketaab-forosh.com",
+      "server_port": 38150,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "tls": {
+        "enabled": true,
+        "server_name": "wikipedia.org",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "eiKBnet93OQ632DtSpUgxrQ-u3ml0ufpaktIhiEqHgo",
+          "short_id": "92c00f"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "DE23-SG🇩🇪V2 24",
+      "connect_timeout": "5s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "de23ex-r.ketaab-forosh.com",
+      "server_port": 43120,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "tls": {
+        "enabled": true,
+        "server_name": "soft98.ir",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "RqmwVBLjg4EhqHqw2bdD8JwgDdGNgvvLvs_jMh4c_h8",
+          "short_id": "88ac1c936a4df3"
+        }
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "tgju.org",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "AM26-TUN🇦🇲V2 25",
+      "connect_timeout": "5s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "am26ex.ketaab-forosh.com",
+      "server_port": 2087,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "transport": {
+        "type": "http",
+        "headers": {
+          "Host": "uptvs.com"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "AM-TUN🇦🇲V2 26",
+      "connect_timeout": "5s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "ir-am61ex.ketaab-forosh.com",
+      "server_port": 2087,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "transport": {
+        "type": "http",
+        "headers": {
+          "Host": "djh.irancell.ir"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "BH-T🇧🇭V2 27",
+      "connect_timeout": "5s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "bh14ex.ketaab-forosh.com",
+      "server_port": 2087,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "transport": {
+        "type": "http",
+        "headers": {
+          "Host": "uptvs.com"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "DE23-ST🇩🇪V2 28",
+      "connect_timeout": "5s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "de23ex.ketaab-forosh.com",
+      "server_port": 2096,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "transport": {
+        "type": "http",
+        "headers": {
+          "Host": "soft98.ir"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "TR4-RG🇹🇷V2 29",
+      "connect_timeout": "5s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "tr196ex-r.ketaab-forosh.com",
+      "server_port": 43101,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "tls": {
+        "enabled": true,
+        "server_name": "google.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "uzA-QrRUwkt6MOU1mWsKhCIM56aR2woRF-ni2fCPjy8",
+          "short_id": "90"
+        }
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "google.com",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "Sweden-R🇸🇪V2 30",
+      "connect_timeout": "5s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "se50ex-r.ketaab-forosh.com",
+      "server_port": 43101,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "tls": {
+        "enabled": true,
+        "server_name": "google.com",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "uzA-QrRUwkt6MOU1mWsKhCIM56aR2woRF-ni2fCPjy8",
+          "short_id": "90"
+        }
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "google.com",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "CA-TN178🇨🇦V2 31",
+      "connect_timeout": "5s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "ex178ca.ketaab-forosh.com",
+      "server_port": 2096,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "transport": {
+        "type": "http",
+        "headers": {
+          "Host": "uptvs.com"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "DK-TN🇩🇰V2 32",
+      "connect_timeout": "5s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "dk220exf.ketaab-forosh.com",
+      "server_port": 2090,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "transport": {
+        "type": "http",
+        "headers": {
+          "Host": "uptvs.com"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "GE-TN🇬🇪V2 33",
+      "connect_timeout": "5s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "ge42ex.ketaab-forosh.com",
+      "server_port": 2087,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "transport": {
+        "type": "http",
+        "headers": {
+          "Host": "uptvs.com"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "IN-TN🇮🇳V2 34",
+      "connect_timeout": "5s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "in41ex.ketaab-forosh.com",
+      "server_port": 2087,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "transport": {
+        "type": "http",
+        "headers": {
+          "Host": "uptvs.com"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "IRAQ-TN🇮🇶V2 35",
+      "connect_timeout": "5s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "iq85ex.ketaab-forosh.com",
+      "server_port": 2096,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "transport": {
+        "type": "http",
+        "headers": {
+          "Host": "uptvs.com"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "ITALY-TN🇮🇹V2 36",
+      "connect_timeout": "5s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "ex189it.ketaab-forosh.com",
+      "server_port": 2096,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "transport": {
+        "type": "http",
+        "headers": {
+          "Host": "uptvs.com"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "NL-TN🇳🇱V2 37",
+      "connect_timeout": "5s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "nl58ex.ketaab-forosh.com",
+      "server_port": 2096,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "transport": {
+        "type": "http",
+        "headers": {
+          "Host": "uptvs.com"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "Oman-TN🇴🇲V2 38",
+      "connect_timeout": "5s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "om72ex.ketaab-forosh.com",
+      "server_port": 2096,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "transport": {
+        "type": "http",
+        "headers": {
+          "Host": "uptvs.com"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "Pakistan-TN🇵🇰V2 39",
+      "connect_timeout": "5s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "pk202exf.ketaab-forosh.com",
+      "server_port": 2096,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "transport": {
+        "type": "http",
+        "headers": {
+          "Host": "uptvs.com"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "Swiss-TUN🇨🇭V2 40",
+      "connect_timeout": "5s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "ir-ch62ex.ketaab-forosh.com",
+      "server_port": 2087,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "transport": {
+        "type": "http",
+        "headers": {
+          "Host": "uptvs.com"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "TR2-TN🇹🇷V2 41",
+      "connect_timeout": "5s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "tr23ex.irketaab.com",
+      "server_port": 2087,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "transport": {
+        "type": "http",
+        "headers": {
+          "Host": "uptvs.com"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "TR3-TN🇹🇷V2 42",
+      "connect_timeout": "5s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "tr45ex.irketaab.com",
+      "server_port": 2087,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "transport": {
+        "type": "http",
+        "headers": {
+          "Host": "uptvs.com"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "TR-TUN🇹🇷V2 43",
+      "connect_timeout": "5s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "ir-tr65exf.ketaab-forosh.com",
+      "server_port": 2087,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "transport": {
+        "type": "http",
+        "headers": {
+          "Host": "charge.irancell.ir"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "ITALY-RG🇮🇹V2 44",
+      "connect_timeout": "5s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "ex189it-r.ketaab-forosh.com",
+      "server_port": 59610,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "tls": {
+        "enabled": true,
+        "server_name": "tgju.org",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "J-p2Ryi5pT4bLxxMKnAPgX5ugGbxFrmwy13c6fhmdlk",
+          "short_id": "31"
+        }
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "digikala.ir",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "TR5-T🇹🇷V2 45",
+      "connect_timeout": "5s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "tr208ex.ketaab-forosh.com",
+      "server_port": 2087,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "transport": {
+        "type": "http",
+        "headers": {
+          "Host": "uptvs.com"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "AE-R🇦🇪V2 46",
+      "connect_timeout": "5s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "ae65ex-r.ketaab-forosh.com",
+      "server_port": 29447,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "tls": {
+        "enabled": true,
+        "server_name": "wikipedia.org",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "Yr3C7Tmp103BDjuF3EBz-ZWDUXjwqvlmN6mKvkQ88Wc",
+          "short_id": "73fc98a7"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "AM26-RG🇦🇲V2 47",
+      "connect_timeout": "5s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "am26ex-r.ketaab-forosh.com",
+      "server_port": 43101,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
       "tls": {
         "enabled": true,
         "server_name": "tgju.org",
@@ -2893,12 +3024,12 @@
     },
     {
       "type": "vless",
-      "tag": "AZ-TN🇦🇿V2 44",
+      "tag": "FR-TN🇫🇷V2 48",
       "connect_timeout": "5s",
       "domain_strategy": "prefer_ipv4",
-      "server": "az132ex.ketaab-forosh.com",
-      "server_port": 2087,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
+      "server": "de226exf.ketaab-forosh.com",
+      "server_port": 2096,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
       "transport": {
         "type": "http",
         "headers": {
@@ -2909,139 +3040,12 @@
     },
     {
       "type": "vless",
-      "tag": "BH-R🇧🇭V2 45",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "bh14ex-r.ketaab-forosh.com",
-      "server_port": 38150,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "tls": {
-        "enabled": true,
-        "server_name": "wikipedia.org",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "eiKBnet93OQ632DtSpUgxrQ-u3ml0ufpaktIhiEqHgo",
-          "short_id": "92c00f"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "UK3-R🇬🇧V2 46",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "uk58ex-r.ketaab-forosh.com",
-      "server_port": 43792,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "tls": {
-        "enabled": true,
-        "server_name": "wikipedia.org",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "mPBDbR5vTHZMUR0zE4EtK1qc2HamnJpo9uhh_gx_cyQ",
-          "short_id": "bfd226858f10"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "UK3-RG🇬🇧V2 47",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "uk58ex-r.ketaab-forosh.com",
-      "server_port": 54078,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "tls": {
-        "enabled": true,
-        "server_name": "wikipedia.org",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "mPBDbR5vTHZMUR0zE4EtK1qc2HamnJpo9uhh_gx_cyQ",
-          "short_id": "bfd226858f10"
-        }
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": "wikipedia.org",
-        "idle_timeout": "15s",
-        "ping_timeout": "15s"
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "AE-RG🇦🇪V2 48",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "ae65ex-r.ketaab-forosh.com",
-      "server_port": 42945,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "tls": {
-        "enabled": true,
-        "server_name": "wikipedia.org",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "Yr3C7Tmp103BDjuF3EBz-ZWDUXjwqvlmN6mKvkQ88Wc",
-          "short_id": "73fc98a7"
-        }
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": "wikipedia.org",
-        "idle_timeout": "15s",
-        "ping_timeout": "15s"
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "AE-R🇦🇪V2 49",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "ae65ex-r.ketaab-forosh.com",
-      "server_port": 29447,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "tls": {
-        "enabled": true,
-        "server_name": "wikipedia.org",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "Yr3C7Tmp103BDjuF3EBz-ZWDUXjwqvlmN6mKvkQ88Wc",
-          "short_id": "73fc98a7"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "AM-RG🇦🇲V2 50",
+      "tag": "AM-RG🇦🇲V2 49",
       "connect_timeout": "5s",
       "domain_strategy": "prefer_ipv4",
       "server": "am61ex-r.ketaab-forosh.com",
       "server_port": 37283,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
       "tls": {
         "enabled": true,
         "server_name": "wikipedia.org",
@@ -3059,12 +3063,70 @@
     },
     {
       "type": "vless",
-      "tag": "Germany-TN🇩🇪V2 51",
+      "tag": "CA-RG178🇨🇦V2 50",
       "connect_timeout": "5s",
       "domain_strategy": "prefer_ipv4",
-      "server": "de226exf.ketaab-forosh.com",
-      "server_port": 2096,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
+      "server": "ex178ca-r.ketaab-forosh.com",
+      "server_port": 59610,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "tls": {
+        "enabled": true,
+        "server_name": "tgju.org",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "ORZdlw9Pyjo3Mom6VfrwS_dXPX-xQBOqE7RRuid8X3g",
+          "short_id": "31"
+        }
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "digikala.ir",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "AZ-RG🇦🇿V2 51",
+      "connect_timeout": "5s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "az132ex-r.ketaab-forosh.com",
+      "server_port": 43101,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "tls": {
+        "enabled": true,
+        "server_name": "tgju.org",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "TlyDVEIir66HiGxv5W4JqkwbWFl4F_CLYIJRzroItzI",
+          "short_id": "90"
+        }
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "tgju.org",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "AZ-TN🇦🇿V2 52",
+      "connect_timeout": "5s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "az132ex.ketaab-forosh.com",
+      "server_port": 2087,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
       "transport": {
         "type": "http",
         "headers": {
@@ -3075,12 +3137,118 @@
     },
     {
       "type": "vless",
-      "tag": "AM-R🇦🇲V2 52",
+      "tag": "DE23-RG🇩🇪V2 53",
       "connect_timeout": "5s",
       "domain_strategy": "prefer_ipv4",
-      "server": "am61ex-r.ketaab-forosh.com",
-      "server_port": 38223,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
+      "server": "de23ex-r.ketaab-forosh.com",
+      "server_port": 43101,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "tls": {
+        "enabled": true,
+        "server_name": "tgju.org",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "TlyDVEIir66HiGxv5W4JqkwbWFl4F_CLYIJRzroItzI",
+          "short_id": "90"
+        }
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "tgju.org",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "DE23-TN🇩🇪V2 54",
+      "connect_timeout": "5s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "de23ex.ketaab-forosh.com",
+      "server_port": 2087,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "transport": {
+        "type": "http",
+        "headers": {
+          "Host": "uptvs.com"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "GE-RG🇬🇪V2 55",
+      "connect_timeout": "5s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "ge42ex-r.ketaab-forosh.com",
+      "server_port": 43101,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "tls": {
+        "enabled": true,
+        "server_name": "tgju.org",
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        },
+        "reality": {
+          "enabled": true,
+          "public_key": "TlyDVEIir66HiGxv5W4JqkwbWFl4F_CLYIJRzroItzI",
+          "short_id": "90"
+        }
+      },
+      "transport": {
+        "type": "grpc",
+        "service_name": "tgju.org",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "TR6-T🇹🇷V2 56",
+      "connect_timeout": "5s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "tr64-ex.ketaab-forosh.com",
+      "server_port": 2087,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "transport": {
+        "type": "http",
+        "headers": {
+          "Host": "uptvs.com"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "BH2-T🇧🇭V2 57",
+      "connect_timeout": "5s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "ex185bh.irketaab.com",
+      "server_port": 2087,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
+      "transport": {
+        "type": "http",
+        "headers": {
+          "Host": "uptvs.com"
+        }
+      },
+      "packet_encoding": ""
+    },
+    {
+      "type": "vless",
+      "tag": "FR-R🇫🇷V2 58",
+      "connect_timeout": "5s",
+      "domain_strategy": "prefer_ipv4",
+      "server": "fr109ex-r.ketaab-forosh.com",
+      "server_port": 38169,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
       "tls": {
         "enabled": true,
         "server_name": "wikipedia.org",
@@ -3090,26 +3258,20 @@
         },
         "reality": {
           "enabled": true,
-          "public_key": "rYpYgHE9u1PB8ighsJqizSJOInUVC_DiKTbiwqtgFlo",
-          "short_id": "b1988338"
+          "public_key": "t8rLFG8lCzUaF8wpVlGcCLHCuyWqFpy6JSFNL1k5s2k",
+          "short_id": "1e7e01"
         }
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": "wikipedia.org",
-        "idle_timeout": "15s",
-        "ping_timeout": "15s"
       },
       "packet_encoding": ""
     },
     {
       "type": "vless",
-      "tag": "IRAQ-RG🇮🇶V2 53",
+      "tag": "IRAQ-RG🇮🇶V2 59",
       "connect_timeout": "5s",
       "domain_strategy": "prefer_ipv4",
       "server": "iq85ex-r.ketaab-forosh.com",
       "server_port": 49713,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
       "tls": {
         "enabled": true,
         "server_name": "soft98.ir",
@@ -3133,312 +3295,12 @@
     },
     {
       "type": "vless",
-      "tag": "FR-R🇫🇷V2 54",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "fr109ex-r.ketaab-forosh.com",
-      "server_port": 38169,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "tls": {
-        "enabled": true,
-        "server_name": "wikipedia.org",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "t8rLFG8lCzUaF8wpVlGcCLHCuyWqFpy6JSFNL1k5s2k",
-          "short_id": "1e7e01"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "FR-RG🇫🇷V2 55",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "fr109ex-r.ketaab-forosh.com",
-      "server_port": 14045,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "tls": {
-        "enabled": true,
-        "server_name": "wikipedia.org",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "t8rLFG8lCzUaF8wpVlGcCLHCuyWqFpy6JSFNL1k5s2k",
-          "short_id": "1e7e01"
-        }
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": "wikipedia.org",
-        "idle_timeout": "15s",
-        "ping_timeout": "15s"
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "GE-GW🇬🇪V2 56",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "ge42ex-r.ketaab-forosh.com",
-      "server_port": 19216,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "tls": {
-        "enabled": true,
-        "server_name": "wikipedia.org",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "fHBRnB_Vb8tepFHvKLfEyGuAjd4bPpE-uQ5TwDW8JWw",
-          "short_id": "90"
-        }
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": "wikipedia.org",
-        "idle_timeout": "15s",
-        "ping_timeout": "15s"
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "DE23-GW🇩🇪V2 57",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "de23ex-r.ketaab-forosh.com",
-      "server_port": 14906,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "tls": {
-        "enabled": true,
-        "server_name": "wikipedia.org",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "SypXhKwlzj1IXLJpqmdjUaGRlQBvOY7zLoGI3_agrTk",
-          "short_id": "90"
-        }
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": "wikipedia.org",
-        "idle_timeout": "15s",
-        "ping_timeout": "15s"
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "UK2-GW🇬🇧V2 58",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "uk94ex-r.ketaab-forosh.com",
-      "server_port": 51656,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "tls": {
-        "enabled": true,
-        "server_name": "wikipedia.org",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "vFvyyTu5iojkm2SXQRUAusaNeJ6q6Ok8x73HXbM_IVo",
-          "short_id": "b0eb6304"
-        }
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": "wikipedia.org",
-        "idle_timeout": "15s",
-        "ping_timeout": "15s"
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "TR3-GW🇹🇷V2 59",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "tr45ex-r.irketaab.com",
-      "server_port": 14716,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "tls": {
-        "enabled": true,
-        "server_name": "wikipedia.org",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "nGlPmTMr3Djrwzadte6EZ6z1khvNHidg3icAiO9GZQM",
-          "short_id": "90"
-        }
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": "wikipedia.org",
-        "idle_timeout": "15s",
-        "ping_timeout": "15s"
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "TR2-GW🇹🇷V2 60",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "tr23ex-r.irketaab.com",
-      "server_port": 42476,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "tls": {
-        "enabled": true,
-        "server_name": "wikipedia.org",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "cbbsPca3VLbvSgtnkGG-3r-1WTPRsDPe2UjLJQotK1I",
-          "short_id": "90"
-        }
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": "wikipedia.org",
-        "idle_timeout": "15s",
-        "ping_timeout": "15s"
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "AM26-GW🇦🇲V2 61",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "am26ex-r.ketaab-forosh.com",
-      "server_port": 40908,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "tls": {
-        "enabled": true,
-        "server_name": "wikipedia.org",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "vNF51LYIc17c1RGFwyYLsyC3DfGrMP9O5BnVJjvOB0U",
-          "short_id": "90"
-        }
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": "wikipedia.org",
-        "idle_timeout": "15s",
-        "ping_timeout": "15s"
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "BH2-T🇧🇭V2 62",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "ex185bh.irketaab.com",
-      "server_port": 2087,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "transport": {
-        "type": "http",
-        "headers": {
-          "Host": "uptvs.com"
-        }
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "BH2-R🇧🇭V2 63",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "ex185bh-r.irketaab.com",
-      "server_port": 43101,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "tls": {
-        "enabled": true,
-        "server_name": "tgju.org",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "TlyDVEIir66HiGxv5W4JqkwbWFl4F_CLYIJRzroItzI",
-          "short_id": "90"
-        }
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": "tgju.org",
-        "idle_timeout": "15s",
-        "ping_timeout": "15s"
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "BH2-GW🇧🇭V2 64",
-      "connect_timeout": "5s",
-      "domain_strategy": "prefer_ipv4",
-      "server": "ex185bh-r.irketaab.com",
-      "server_port": 19216,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
-      "tls": {
-        "enabled": true,
-        "server_name": "wikipedia.org",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "fHBRnB_Vb8tepFHvKLfEyGuAjd4bPpE-uQ5TwDW8JWw",
-          "short_id": "90"
-        }
-      },
-      "transport": {
-        "type": "grpc",
-        "service_name": "wikipedia.org",
-        "idle_timeout": "15s",
-        "ping_timeout": "15s"
-      },
-      "packet_encoding": ""
-    },
-    {
-      "type": "vless",
-      "tag": "Singapore-T🇸🇬V2 65",
+      "tag": "Singapore-T🇸🇬V2 60",
       "connect_timeout": "5s",
       "domain_strategy": "prefer_ipv4",
       "server": "sg84ex.ketaab-forosh.com",
       "server_port": 2087,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
       "transport": {
         "type": "http",
         "headers": {
@@ -3449,28 +3311,28 @@
     },
     {
       "type": "vless",
-      "tag": "Singapore-RG🇸🇬V2 66",
+      "tag": "TR6-SG🇹🇷V2 61",
       "connect_timeout": "5s",
       "domain_strategy": "prefer_ipv4",
-      "server": "sg84ex-r.ketaab-forosh.com",
+      "server": "tr64-ex-r.ketaab-forosh.com",
       "server_port": 43101,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
       "tls": {
         "enabled": true,
-        "server_name": "tgju.org",
+        "server_name": "google.com",
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         },
         "reality": {
           "enabled": true,
-          "public_key": "TlyDVEIir66HiGxv5W4JqkwbWFl4F_CLYIJRzroItzI",
+          "public_key": "uzA-QrRUwkt6MOU1mWsKhCIM56aR2woRF-ni2fCPjy8",
           "short_id": "90"
         }
       },
       "transport": {
         "type": "grpc",
-        "service_name": "tgju.org",
+        "service_name": "google.com",
         "idle_timeout": "15s",
         "ping_timeout": "15s"
       },
@@ -3478,28 +3340,28 @@
     },
     {
       "type": "vless",
-      "tag": "Singapore-GW🇸🇬V2 67",
+      "tag": "TR5-RG🇹🇷V2 62",
       "connect_timeout": "5s",
       "domain_strategy": "prefer_ipv4",
-      "server": "sg84ex-r.ketaab-forosh.com",
-      "server_port": 19216,
-      "uuid": "f7f7c7d0-fc5f-486b-8115-cdfa7f511f9e",
+      "server": "tr208ex-r.ketaab-forosh.com",
+      "server_port": 43101,
+      "uuid": "1f4dc521-fca5-4601-a6ac-34176efa945e",
       "tls": {
         "enabled": true,
-        "server_name": "wikipedia.org",
+        "server_name": "google.com",
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
         },
         "reality": {
           "enabled": true,
-          "public_key": "fHBRnB_Vb8tepFHvKLfEyGuAjd4bPpE-uQ5TwDW8JWw",
+          "public_key": "uzA-QrRUwkt6MOU1mWsKhCIM56aR2woRF-ni2fCPjy8",
           "short_id": "90"
         }
       },
       "transport": {
         "type": "grpc",
-        "service_name": "wikipedia.org",
+        "service_name": "google.com",
         "idle_timeout": "15s",
         "ping_timeout": "15s"
       },
@@ -3540,86 +3402,6 @@
       {
         "port": 53,
         "outbound": "dns-out"
-      },
-      {
-        "rule_set": [
-          "geosite-ads",
-          "geosite-malware",
-          "geosite-phishing",
-          "geosite-cryptominers",
-          "geoip-malware",
-          "geoip-phishing"
-        ],
-        "outbound": "block"
-      },
-      {
-        "domain_suffix": ".ir",
-        "outbound": "direct"
-      },
-      {
-        "rule_set": [
-          "geoip-ir",
-          "geosite-ir"
-        ],
-        "outbound": "direct"
-      }
-    ],
-    "rule_set": [
-      {
-        "type": "remote",
-        "tag": "geosite-ads",
-        "format": "binary",
-        "url": "https://raw.githubusercontent.com/hiddify/hiddify-geo/rule-set/block/geosite-category-ads-all.srs",
-        "update_interval": "120h0m0s"
-      },
-      {
-        "type": "remote",
-        "tag": "geosite-malware",
-        "format": "binary",
-        "url": "https://raw.githubusercontent.com/hiddify/hiddify-geo/rule-set/block/geosite-malware.srs",
-        "update_interval": "120h0m0s"
-      },
-      {
-        "type": "remote",
-        "tag": "geosite-phishing",
-        "format": "binary",
-        "url": "https://raw.githubusercontent.com/hiddify/hiddify-geo/rule-set/block/geosite-phishing.srs",
-        "update_interval": "120h0m0s"
-      },
-      {
-        "type": "remote",
-        "tag": "geosite-cryptominers",
-        "format": "binary",
-        "url": "https://raw.githubusercontent.com/hiddify/hiddify-geo/rule-set/block/geosite-cryptominers.srs",
-        "update_interval": "120h0m0s"
-      },
-      {
-        "type": "remote",
-        "tag": "geoip-phishing",
-        "format": "binary",
-        "url": "https://raw.githubusercontent.com/hiddify/hiddify-geo/rule-set/block/geoip-phishing.srs",
-        "update_interval": "120h0m0s"
-      },
-      {
-        "type": "remote",
-        "tag": "geoip-malware",
-        "format": "binary",
-        "url": "https://raw.githubusercontent.com/hiddify/hiddify-geo/rule-set/block/geoip-malware.srs",
-        "update_interval": "120h0m0s"
-      },
-      {
-        "type": "remote",
-        "tag": "geoip-ir",
-        "format": "binary",
-        "url": "https://raw.githubusercontent.com/hiddify/hiddify-geo/rule-set/country/geoip-ir.srs",
-        "update_interval": "120h0m0s"
-      },
-      {
-        "type": "remote",
-        "tag": "geosite-ir",
-        "format": "binary",
-        "url": "https://raw.githubusercontent.com/hiddify/hiddify-geo/rule-set/country/geosite-ir.srs",
-        "update_interval": "120h0m0s"
       }
     ],
     "final": "select",
@@ -3633,7 +3415,7 @@
     },
     "clash_api": {
       "external_controller": "127.0.0.1:16756",
-      "secret": "dhD_4bbYSIZLYHCP"
+      "secret": "ikhQ-nFEAsD8McWi"
     }
   }
 }
